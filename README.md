@@ -1,9 +1,9 @@
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyLand?ref=badge_small"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyLand.svg?type=small" alt="FOSSA Status"></a><table><tr>
 
 <td colspan="1"> <h3 align="center"> <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://playform.cloud/Image/GitHub/Cargo.png">
-<source media="(prefers-color-scheme: light)" srcset="https://playform.cloud/Image/GitHub/Cargo.png">
-<img width="28" alt="" src="https://playform.cloud/Image/GitHub/Cargo.png">
+<source media="(prefers-color-scheme: dark)" srcset="https://playform.ltd/Image/GitHub/Cargo.png">
+<source media="(prefers-color-scheme: light)" srcset="https://playform.ltd/Image/GitHub/Cargo.png">
+<img width="28" alt="" src="https://playform.ltd/Image/GitHub/Cargo.png">
 </picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> Cargo —
 </h3> </td>
 </tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandDocument" target="_blank">
@@ -5627,9 +5627,9 @@
 </picture>
 </a><br><a href="https://github.com/CodeEditorLand/TypeScriptLandExtensions" target="_blank"><b>A monorepo of VS Code extensions from the TypeScript Team —</b></a></td></tr></table><table><tr>
 <td colspan="1"> <h3 align="center"> <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://playform.cloud/Image/GitHub/NPM.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://playform.cloud/Image/GitHub/NPM.svg">
-<img width="28" alt="" src="https://playform.cloud/Image/GitHub/NPM.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://playform.ltd/Image/GitHub/NPM.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://playform.ltd/Image/GitHub/NPM.svg">
+<img width="28" alt="" src="https://playform.ltd/Image/GitHub/NPM.svg">
 </picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> NPM —
 </h3> </td>
 </tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandCommon" target="_blank">
