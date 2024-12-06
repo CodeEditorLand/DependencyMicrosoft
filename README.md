@@ -6,43 +6,43 @@
 <img width="28" alt="" src="https://PlayForm.LTD/Image/GitHub/Cargo.png">
 </picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> Cargo —
 </h3> </td>
-</tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandDocument" target="_blank">
+</tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Document" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandDocument?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandDocument?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandDocument?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Document?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Document?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/last-commit/CodeEditorLand/Document?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandDocument" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Document" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandDocument?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandDocument?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandDocument?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/Document?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/Document?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/issues/CodeEditorLand/Document?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
 </picture>
-</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/DependencyLandDocument" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandDocument?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandDocument?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandDocument?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandDocument" target="_blank">
+</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/Document" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/Document?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/Document?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/Document?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Document" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandDocument/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandDocument/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandDocument/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Document/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Document/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/downloads/CodeEditorLand/Document/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://github.com/CodeEditorLand/DependencyLandDocument" target="_blank"><b>📄 Document — 🏞️ Land —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandMaintain" target="_blank">
+</a><br><a href="HTTPS://github.com/CodeEditorLand/Document" target="_blank"><b>📄 Document — 🏞️ Land —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Maintain" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandMaintain?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandMaintain?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandMaintain?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Maintain?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Maintain?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/last-commit/CodeEditorLand/Maintain?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandMaintain" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Maintain" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandMaintain?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandMaintain?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandMaintain?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/Maintain?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/Maintain?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/issues/CodeEditorLand/Maintain?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
 </picture>
-</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/DependencyLandMaintain" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandMaintain?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandMaintain?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandMaintain?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandMaintain" target="_blank">
+</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/Maintain" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/Maintain?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/Maintain?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/Maintain?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Maintain" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandMaintain/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandMaintain/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandMaintain/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Maintain/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Maintain/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/downloads/CodeEditorLand/Maintain/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://github.com/CodeEditorLand/DependencyLandMaintain" target="_blank"><b>💪🏻 Maintain — 🏞️ Land —</b></a></td></tr></table><table><tr>
+</a><br><a href="HTTPS://github.com/CodeEditorLand/Maintain" target="_blank"><b>💪🏻 Maintain — 🏞️ Land —</b></a></td></tr></table><table><tr>
 <td colspan="1"> <h3 align="center"> <picture> </picture> 🖇️ </h3> </td>
 <td colspan="3" valign="top"> <h3 align="center"> Dependency — </h3> </td>
 </tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/ApplicationInsightsLand" target="_blank">
@@ -5632,40 +5632,40 @@
 <img width="28" alt="" src="https://PlayForm.LTD/Image/GitHub/NPM.svg">
 </picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> NPM —
 </h3> </td>
-</tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandCommon" target="_blank">
+</tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Common" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandCommon?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandCommon?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandCommon?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Common?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Common?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/last-commit/CodeEditorLand/Common?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandCommon" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Common" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandCommon?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandCommon?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandCommon?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/Common?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/Common?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/issues/CodeEditorLand/Common?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
 </picture>
-</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/DependencyLandCommon" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandCommon?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandCommon?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandCommon?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandCommon" target="_blank">
+</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/Common" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/Common?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/Common?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/Common?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Common" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandCommon/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandCommon/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandCommon/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Common/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Common/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/downloads/CodeEditorLand/Common/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://github.com/CodeEditorLand/DependencyLandCommon" target="_blank"><b>🧑🏻‍🏭 Common — 🏞️ Land —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandIngress" target="_blank">
+</a><br><a href="HTTPS://github.com/CodeEditorLand/Common" target="_blank"><b>🧑🏻‍🏭 Common — 🏞️ Land —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Ingress" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandIngress?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandIngress?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/last-commit/CodeEditorLand/DependencyLandIngress?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Ingress?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Ingress?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/last-commit/CodeEditorLand/Ingress?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Update" title="Update">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandIngress" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Ingress" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandIngress?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandIngress?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/issues/CodeEditorLand/DependencyLandIngress?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/issues/CodeEditorLand/Ingress?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/issues/CodeEditorLand/Ingress?label=Issue&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/issues/CodeEditorLand/Ingress?label=Issue&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Issue" title="Issue">
 </picture>
-</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/DependencyLandIngress" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandIngress?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandIngress?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/DependencyLandIngress?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DependencyLandIngress" target="_blank">
+</a><br></td><td valign="top" colspan="1"><a href="HTTPS://github.com/CodeEditorLand/Ingress" target="_blank"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/CodeEditorLand/Ingress?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/CodeEditorLand/Ingress?style=flat&label=Star&logo=github&color=white&labelColor=white&logoColor=black&logoWidth=0"><img src="https://img.shields.io/github/stars/CodeEditorLand/Ingress?style=flat&label=Star&logo=github&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Star"></picture></a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Ingress" target="_blank">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandIngress/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandIngress/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
-<img src="https://img.shields.io/github/downloads/CodeEditorLand/DependencyLandIngress/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Ingress/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Ingress/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
+<img src="https://img.shields.io/github/downloads/CodeEditorLand/Ingress/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://github.com/CodeEditorLand/DependencyLandIngress" target="_blank"><b>➡️ Ingress — 🏞️ Land —</b></a></td></tr></table><a href="HTTPS://fossa.app/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyLand?ref=badge_large&issueType=license"><img src="https://fossa.app/api/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyLand.svg?type=large&issueType=license" alt="FOSSA Status"></a>
+</a><br><a href="HTTPS://github.com/CodeEditorLand/Ingress" target="_blank"><b>➡️ Ingress — 🏞️ Land —</b></a></td></tr></table><a href="HTTPS://fossa.app/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyLand?ref=badge_large&issueType=license"><img src="https://fossa.app/api/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyLand.svg?type=large&issueType=license" alt="FOSSA Status"></a>
