@@ -24,7 +24,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Document/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/Document/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Document" target="_blank"><b>📄 Document — 🏞️ Land —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Maintain" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Document" target="_blank"><b>Document 📄 Land 🏞️</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Maintain" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Maintain?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Maintain?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -42,7 +42,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Maintain/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/Maintain/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Maintain" target="_blank"><b>💪🏻 Maintain — 🏞️ Land —</b></a></td></tr></table><table><tr>
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Maintain" target="_blank"><b>Maintain 💪🏻 Land 🏞️</b></a></td></tr></table><table><tr>
 <td colspan="1"> <h3 align="center"> <picture> </picture> 🖇️ </h3> </td>
 <td colspan="3" valign="top"> <h3 align="center"> Dependency — </h3> </td>
 </tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/ApplicationInsightsLand" target="_blank">
@@ -297,7 +297,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Editor/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/Editor/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Editor" target="_blank"><b>🏞️ Editor —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Gnls" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Editor" target="_blank"><b>Editor 🏞️</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Gnls" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Gnls?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Gnls?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5650,7 +5650,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Common/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/Common/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Common" target="_blank"><b>🧑🏻‍🏭 Common — 🏞️ Land —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Ingress" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Common" target="_blank"><b>Common 🧑🏻‍🏭 Land 🏞️</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Ingress" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Ingress?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Ingress?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5668,4 +5668,4 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Ingress/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/Ingress/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Ingress" target="_blank"><b>➡️ Ingress — 🏞️ Land —</b></a></td></tr></table><a href="HTTPS://fossa.app/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyMicrosoft?ref=badge_large&issueType=license"><img src="https://fossa.app/api/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyMicrosoft.svg?type=large&issueType=license" alt="FOSSA Status"></a>
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Ingress" target="_blank"><b>Ingress ➡️ Land 🏞️</b></a></td></tr></table><a href="HTTPS://fossa.app/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyMicrosoft?ref=badge_large&issueType=license"><img src="https://fossa.app/api/projects/git%2Bgithub.com%2FCodeEditorLand%2FDependencyMicrosoft.svg?type=large&issueType=license" alt="FOSSA Status"></a>
