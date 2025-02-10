@@ -4,7 +4,7 @@
 <source media="(prefers-color-scheme: dark)" srcset="https://PlayForm.LTD/Image/GitHub/Cargo.png">
 <source media="(prefers-color-scheme: light)" srcset="https://PlayForm.LTD/Image/GitHub/Cargo.png">
 <img width="28" alt="" src="https://PlayForm.LTD/Image/GitHub/Cargo.png">
-</picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> Cargo —
+</picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> Cargo
 </h3> </td>
 </tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Document" target="_blank">
 <picture>
@@ -44,7 +44,7 @@
 </picture>
 </a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Maintain" target="_blank"><b>Maintain 💪🏻 Land 🏞️</b></a></td></tr></table><table><tr>
 <td colspan="1"> <h3 align="center"> <picture> </picture> 🖇️ </h3> </td>
-<td colspan="3" valign="top"> <h3 align="center"> Dependency — </h3> </td>
+<td colspan="3" valign="top"> <h3 align="center"> Dependency </h3> </td>
 </tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/ApplicationInsightsLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/ApplicationInsightsLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
@@ -63,7 +63,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/ApplicationInsightsLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/ApplicationInsightsLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/ApplicationInsightsLand" target="_blank"><b>Visual Studio Code extension for Azure Application Insights —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureBoardsLand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/ApplicationInsightsLand" target="_blank"><b>Visual Studio Code extension for Azure Application Insights</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureBoardsLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/AzureBoardsLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/AzureBoardsLand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -81,7 +81,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/AzureBoardsLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/AzureBoardsLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureBoardsLand" target="_blank"><b>Azure Boards Extension for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureDatalakeToolsForLand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureBoardsLand" target="_blank"><b>Azure Boards Extension for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureDatalakeToolsForLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/AzureDatalakeToolsForLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/AzureDatalakeToolsForLand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -99,7 +99,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/AzureDatalakeToolsForLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/AzureDatalakeToolsForLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureDatalakeToolsForLand" target="_blank"><b>Azure Datalake Tools For VSCode —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureIOTDeveloperKit" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureDatalakeToolsForLand" target="_blank"><b>Azure Datalake Tools For VSCode</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureIOTDeveloperKit" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/AzureIOTDeveloperKit?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/AzureIOTDeveloperKit?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -117,7 +117,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/AzureIOTDeveloperKit/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/AzureIOTDeveloperKit/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureIOTDeveloperKit" target="_blank"><b>A curated list of awesome Azure IoT Developer Kit projects and resources —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/AzurePipelinesLand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureIOTDeveloperKit" target="_blank"><b>A curated list of awesome Azure IoT Developer Kit projects and resources</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/AzurePipelinesLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/AzurePipelinesLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/AzurePipelinesLand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -135,7 +135,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/AzurePipelinesLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/AzurePipelinesLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/AzurePipelinesLand" target="_blank"><b>VS Code extension for working with Azure Pipelines YAML files —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureReposLand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/AzurePipelinesLand" target="_blank"><b>VS Code extension for working with Azure Pipelines YAML files</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureReposLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/AzureReposLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/AzureReposLand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -153,7 +153,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/AzureReposLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/AzureReposLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureReposLand" target="_blank"><b>Azure Repos extension for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureStreamAnalyticsInLand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureReposLand" target="_blank"><b>Azure Repos extension for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureStreamAnalyticsInLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/AzureStreamAnalyticsInLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/AzureStreamAnalyticsInLand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -171,7 +171,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/AzureStreamAnalyticsInLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/AzureStreamAnalyticsInLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureStreamAnalyticsInLand" target="_blank"><b>Azure Stream Analytics In VSCode —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Codetour" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/AzureStreamAnalyticsInLand" target="_blank"><b>Azure Stream Analytics In VSCode</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Codetour" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Codetour?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Codetour?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -189,7 +189,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Codetour/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/Codetour/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Codetour" target="_blank"><b>VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/ComposeLanguageService" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Codetour" target="_blank"><b>VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/ComposeLanguageService" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/ComposeLanguageService?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/ComposeLanguageService?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -207,7 +207,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/ComposeLanguageService/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/ComposeLanguageService/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/ComposeLanguageService" target="_blank"><b>Language service for Docker Compose documents —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DeoptexplorerLand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/ComposeLanguageService" target="_blank"><b>Language service for Docker Compose documents</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DeoptexplorerLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DeoptexplorerLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DeoptexplorerLand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -225,7 +225,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DeoptexplorerLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/DeoptexplorerLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DeoptexplorerLand" target="_blank"><b>A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DevSkim" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DeoptexplorerLand" target="_blank"><b>A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DevSkim" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DevSkim?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DevSkim?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -243,7 +243,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DevSkim/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/DevSkim/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DevSkim" target="_blank"><b>DevSkim is a set of IDE plugins, language analyzers, and rules that provide security linting capabilities —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DevSkimLandPlugin" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DevSkim" target="_blank"><b>DevSkim is a set of IDE plugins, language analyzers, and rules that provide security linting capabilities</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DevSkimLandPlugin" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DevSkimLandPlugin?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DevSkimLandPlugin?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -261,7 +261,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DevSkimLandPlugin/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/DevSkimLandPlugin/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DevSkimLandPlugin" target="_blank"><b>DevSkim plugin for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DSToolkitDevContainers" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DevSkimLandPlugin" target="_blank"><b>DevSkim plugin for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/DSToolkitDevContainers" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DSToolkitDevContainers?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/DSToolkitDevContainers?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -279,7 +279,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/DSToolkitDevContainers/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/DSToolkitDevContainers/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DSToolkitDevContainers" target="_blank"><b>A machine learning project template that makes it easy to work with multiple Docker based VSCode Dev Containers Easily transition projects to the cloud and production with automated code quality checks, pytest configuration, CI pipeline templates &amp; AML cloud example —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Editor" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/DSToolkitDevContainers" target="_blank"><b>A machine learning project template that makes it easy to work with multiple Docker based VSCode Dev Containers Easily transition projects to the cloud and production with automated code quality checks, pytest configuration, CI pipeline templates &amp; AML cloud example</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Editor" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Editor?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Editor?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -315,7 +315,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Gnls/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/Gnls/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Gnls" target="_blank"><b>GN language server and extensions —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAnacondaExtensionPack" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Gnls" target="_blank"><b>GN language server and extensions</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAnacondaExtensionPack" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAnacondaExtensionPack?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAnacondaExtensionPack?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -333,7 +333,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAnacondaExtensionPack/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAnacondaExtensionPack/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAnacondaExtensionPack" target="_blank"><b>Python extension pack for Anaconda —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAnycode" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAnacondaExtensionPack" target="_blank"><b>Python extension pack for Anaconda</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAnycode" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAnycode?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAnycode?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -351,7 +351,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAnycode/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAnycode/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAnycode" target="_blank"><b> —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandApimanagement" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAnycode" target="_blank"><b></b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandApimanagement" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandApimanagement?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandApimanagement?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -369,7 +369,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandApimanagement/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandApimanagement/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandApimanagement" target="_blank"><b>VS Code extension for Azure API Management —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAppcenter" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandApimanagement" target="_blank"><b>VS Code extension for Azure API Management</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAppcenter" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAppcenter?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAppcenter?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -387,7 +387,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAppcenter/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAppcenter/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAppcenter" target="_blank"><b>App Center extension for VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandArduino" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAppcenter" target="_blank"><b>App Center extension for VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandArduino" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandArduino?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandArduino?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -405,7 +405,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandArduino/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandArduino/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandArduino" target="_blank"><b>Visual Studio Code extension for Arduino —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAsa" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandArduino" target="_blank"><b>Visual Studio Code extension for Arduino</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAsa" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAsa?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAsa?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -423,7 +423,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAsa/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAsa/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAsa" target="_blank"><b>Azure Stream Analytics In VSCode —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAtomKeybindings" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAsa" target="_blank"><b>Azure Stream Analytics In VSCode</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAtomKeybindings" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAtomKeybindings?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAtomKeybindings?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -441,7 +441,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAtomKeybindings/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAtomKeybindings/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAtomKeybindings" target="_blank"><b>Port of Atom Keybindings for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAutopep8" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAtomKeybindings" target="_blank"><b>Port of Atom Keybindings for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAutopep8" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAutopep8?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAutopep8?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -459,7 +459,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAutopep8/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAutopep8/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAutopep8" target="_blank"><b>Formatting support for python using autopep8 —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureAccount" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAutopep8" target="_blank"><b>Formatting support for python using autopep8</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureAccount" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureAccount?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureAccount?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -477,7 +477,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureAccount/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureAccount/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureAccount" target="_blank"><b>Common Azure Login extension for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureAppService" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureAccount" target="_blank"><b>Common Azure Login extension for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureAppService" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureAppService?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureAppService?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -495,7 +495,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureAppService/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureAppService/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureAppService" target="_blank"><b>Azure App Service extension for VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureArmTools" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureAppService" target="_blank"><b>Azure App Service extension for VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureArmTools" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureArmTools?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureArmTools?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -513,7 +513,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureArmTools/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureArmTools/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureArmTools" target="_blank"><b>Azure Resource Manager Tools for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureAutomation" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureArmTools" target="_blank"><b>Azure Resource Manager Tools for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureAutomation" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureAutomation?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureAutomation?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -531,7 +531,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureAutomation/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureAutomation/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureAutomation" target="_blank"><b> —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureBlockchainEthereum" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureAutomation" target="_blank"><b></b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureBlockchainEthereum" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureBlockchainEthereum?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureBlockchainEthereum?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -549,7 +549,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureBlockchainEthereum/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureBlockchainEthereum/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureBlockchainEthereum" target="_blank"><b>Blockchain extension for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureCache" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureBlockchainEthereum" target="_blank"><b>Blockchain extension for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureCache" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureCache?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureCache?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -567,7 +567,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureCache/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureCache/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureCache" target="_blank"><b>Azure Cache for Redis is a fully managed, open source–compatible in-memory data store to power fast, scalable applications Use this extension to view data in your Azure Caches and monitor them at a glance —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureCli" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureCache" target="_blank"><b>Azure Cache for Redis is a fully managed, open source–compatible in-memory data store to power fast, scalable applications Use this extension to view data in your Azure Caches and monitor them at a glance</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureCli" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureCli?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureCli?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -585,7 +585,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureCli/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureCli/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureCli" target="_blank"><b>VS Code extension for the Azure CLI 20 —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureCognitiveSearch" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureCli" target="_blank"><b>VS Code extension for the Azure CLI 20</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureCognitiveSearch" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureCognitiveSearch?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureCognitiveSearch?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -603,7 +603,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureCognitiveSearch/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureCognitiveSearch/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureCognitiveSearch" target="_blank"><b>Azure Cognitive Search extension for VS Code (Preview) —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureContainerapps" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureCognitiveSearch" target="_blank"><b>Azure Cognitive Search extension for VS Code (Preview)</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureContainerapps" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureContainerapps?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureContainerapps?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -621,7 +621,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureContainerapps/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureContainerapps/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureContainerapps" target="_blank"><b>VS Code extension for Azure Container Apps —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureEventGrid" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureContainerapps" target="_blank"><b>VS Code extension for Azure Container Apps</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureEventGrid" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureEventGrid?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureEventGrid?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -639,7 +639,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureEventGrid/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureEventGrid/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureEventGrid" target="_blank"><b>Azure Event Grid extension for VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureFunctions" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureEventGrid" target="_blank"><b>Azure Event Grid extension for VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureFunctions" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureFunctions?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureFunctions?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -657,7 +657,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureFunctions/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureFunctions/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureFunctions" target="_blank"><b>Azure Functions extension for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureFunctionsRemoteWebExtension" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureFunctions" target="_blank"><b>Azure Functions extension for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureFunctionsRemoteWebExtension" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureFunctionsRemoteWebExtension?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureFunctionsRemoteWebExtension?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -675,7 +675,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureFunctionsRemoteWebExtension/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureFunctionsRemoteWebExtension/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureFunctionsRemoteWebExtension" target="_blank"><b>Extension side of Project Limelight —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureHealthcareAPIsTools" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureFunctionsRemoteWebExtension" target="_blank"><b>Extension side of Project Limelight</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureHealthcareAPIsTools" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureHealthcareAPIsTools?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureHealthcareAPIsTools?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -693,7 +693,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureHealthcareAPIsTools/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureHealthcareAPIsTools/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureHealthcareAPIsTools" target="_blank"><b>This VS Code extension contains a collection of tools to work with Azure Healthcare APIs —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureIOTEdge" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureHealthcareAPIsTools" target="_blank"><b>This VS Code extension contains a collection of tools to work with Azure Healthcare APIs</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureIOTEdge" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureIOTEdge?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureIOTEdge?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -711,7 +711,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureIOTEdge/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureIOTEdge/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureIOTEdge" target="_blank"><b>Azure IoT Edge for Visual Studio Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureIOTToolkit" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureIOTEdge" target="_blank"><b>Azure IoT Edge for Visual Studio Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureIOTToolkit" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureIOTToolkit?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureIOTToolkit?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -729,7 +729,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureIOTToolkit/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureIOTToolkit/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureIOTToolkit" target="_blank"><b>Azure IoT Hub extension for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureIOTTools" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureIOTToolkit" target="_blank"><b>Azure IoT Hub extension for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureIOTTools" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureIOTTools?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureIOTTools?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -747,7 +747,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureIOTTools/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureIOTTools/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureIOTTools" target="_blank"><b>The ultimate collection of extensions for working with Azure IoT in VS Code! —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureLogicapps" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureIOTTools" target="_blank"><b>The ultimate collection of extensions for working with Azure IoT in VS Code!</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureLogicapps" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureLogicapps?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureLogicapps?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -765,7 +765,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureLogicapps/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureLogicapps/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureLogicapps" target="_blank"><b>Visual Studio Code extension for Azure Logic Apps (Consumption) —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzurePack" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureLogicapps" target="_blank"><b>Visual Studio Code extension for Azure Logic Apps (Consumption)</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzurePack" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzurePack?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzurePack?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -783,7 +783,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzurePack/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzurePack/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzurePack" target="_blank"><b>A collection of extensions for working with Azure resources in VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureResourceGroups" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzurePack" target="_blank"><b>A collection of extensions for working with Azure resources in VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureResourceGroups" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureResourceGroups?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureResourceGroups?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -801,7 +801,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureResourceGroups/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureResourceGroups/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureResourceGroups" target="_blank"><b>VS Code extension for managing Azure resources —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureServerlessPack" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureResourceGroups" target="_blank"><b>VS Code extension for managing Azure resources</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureServerlessPack" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureServerlessPack?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureServerlessPack?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -819,7 +819,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureServerlessPack/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureServerlessPack/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureServerlessPack" target="_blank"><b>Extension pack for building serverless apps on Azure —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureSpringCloud" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureServerlessPack" target="_blank"><b>Extension pack for building serverless apps on Azure</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureSpringCloud" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureSpringCloud?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureSpringCloud?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -837,7 +837,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureSpringCloud/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureSpringCloud/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureSpringCloud" target="_blank"><b>Azure Spring Cloud extension for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureStaticwebapps" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureSpringCloud" target="_blank"><b>Azure Spring Cloud extension for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureStaticwebapps" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureStaticwebapps?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureStaticwebapps?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -855,7 +855,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureStaticwebapps/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureStaticwebapps/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureStaticwebapps" target="_blank"><b>Azure Static Web Apps extension for VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureStorage" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureStaticwebapps" target="_blank"><b>Azure Static Web Apps extension for VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureStorage" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureStorage?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureStorage?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -873,7 +873,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureStorage/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureStorage/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureStorage" target="_blank"><b>Azure Storage extension for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureTools" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureStorage" target="_blank"><b>Azure Storage extension for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureTools" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureTools?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureTools?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -891,7 +891,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureTools/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureTools/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureTools" target="_blank"><b>Common packages for building Azure extensions for VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureVirtualMachines" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureTools" target="_blank"><b>Common packages for building Azure extensions for VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandAzureVirtualMachines" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureVirtualMachines?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureVirtualMachines?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -945,7 +945,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandBisect/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandBisect/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBisect" target="_blank"><b>Allows to bisect released VSCode web and desktop insider builds for issues similar to what git bisect does —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBlackFormatter" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBisect" target="_blank"><b>Allows to bisect released VSCode web and desktop insider builds for issues similar to what git bisect does</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBlackFormatter" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandBlackFormatter?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandBlackFormatter?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -963,7 +963,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandBlackFormatter/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandBlackFormatter/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBlackFormatter" target="_blank"><b>Formatting support for Python using the Black formatter —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBracketsKeybindings" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBlackFormatter" target="_blank"><b>Formatting support for Python using the Black formatter</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBracketsKeybindings" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandBracketsKeybindings?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandBracketsKeybindings?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -981,7 +981,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandBracketsKeybindings/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandBracketsKeybindings/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBracketsKeybindings" target="_blank"><b>Brackets Keymap for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBracketsPack" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBracketsKeybindings" target="_blank"><b>Brackets Keymap for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBracketsPack" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandBracketsPack?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandBracketsPack?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -999,7 +999,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandBracketsPack/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandBracketsPack/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBracketsPack" target="_blank"><b>Popular Brackets features as extensions for VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCdp" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandBracketsPack" target="_blank"><b>Popular Brackets features as extensions for VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCdp" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCdp?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCdp?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1017,7 +1017,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandCdp/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandCdp/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCdp" target="_blank"><b>Nodejs libraries for interfacing with the Chrome DevTools Protocol —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCdpProxy" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCdp" target="_blank"><b>Nodejs libraries for interfacing with the Chrome DevTools Protocol</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCdpProxy" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCdpProxy?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCdpProxy?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1035,7 +1035,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandCdpProxy/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandCdpProxy/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCdpProxy" target="_blank"><b>Sample Chrome Debug Protocol proxy used to extend vscode-js-debug —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandChromeDebug" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCdpProxy" target="_blank"><b>Sample Chrome Debug Protocol proxy used to extend vscode-js-debug</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandChromeDebug" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandChromeDebug?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandChromeDebug?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1053,7 +1053,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandChromeDebug/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandChromeDebug/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandChromeDebug" target="_blank"><b>Debug your JavaScript code running in Google Chrome from VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandChromeDebugCore" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandChromeDebug" target="_blank"><b>Debug your JavaScript code running in Google Chrome from VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandChromeDebugCore" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandChromeDebugCore?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandChromeDebugCore?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1107,7 +1107,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandCmakeToolsApi/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandCmakeToolsApi/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCmakeToolsApi" target="_blank"><b> —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCodicons" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCmakeToolsApi" target="_blank"><b></b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCodicons" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCodicons?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCodicons?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1125,7 +1125,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandCodicons/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandCodicons/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCodicons" target="_blank"><b>The icon font for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandComment" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCodicons" target="_blank"><b>The icon font for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandComment" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandComment?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandComment?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1143,7 +1143,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandComment/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandComment/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandComment" target="_blank"><b>Adds simple jsdoc comments for the parameters of a selected function signature —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCopilotRelease" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandComment" target="_blank"><b>Adds simple jsdoc comments for the parameters of a selected function signature</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCopilotRelease" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCopilotRelease?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCopilotRelease?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1161,7 +1161,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandCopilotRelease/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandCopilotRelease/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCopilotRelease" target="_blank"><b>Feedback on GitHub Copilot Chat UX in Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCordova" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCopilotRelease" target="_blank"><b>Feedback on GitHub Copilot Chat UX in Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCordova" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCordova?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCordova?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1197,7 +1197,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandCosmosDB/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandCosmosDB/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCosmosDB" target="_blank"><b>Azure Databases extension for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCosmosDBGraph" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCosmosDB" target="_blank"><b>Azure Databases extension for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCosmosDBGraph" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCosmosDBGraph?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCosmosDBGraph?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1215,7 +1215,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandCosmosDBGraph/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandCosmosDBGraph/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCosmosDBGraph" target="_blank"><b>VS Code extension for Cosmos DB Graph databases —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCourseSample" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCosmosDBGraph" target="_blank"><b>VS Code extension for Cosmos DB Graph databases</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCourseSample" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCourseSample?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCourseSample?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1233,7 +1233,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandCourseSample/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandCourseSample/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCourseSample" target="_blank"><b> —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCPPTools" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCourseSample" target="_blank"><b></b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCPPTools" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCPPTools?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCPPTools?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1269,7 +1269,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandCPPToolsApi/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandCPPToolsApi/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCPPToolsApi" target="_blank"><b>Public API for the C⁄C++ Extension for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCSS" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCPPToolsApi" target="_blank"><b>Public API for the C⁄C++ Extension for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCSS" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCSS?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCSS?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1287,7 +1287,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandCSS/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandCSS/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCSS" target="_blank"><b>CSS Textmate grammar for syntax highlighting —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCSSLanguageService" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCSS" target="_blank"><b>CSS Textmate grammar for syntax highlighting</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCSSLanguageService" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCSSLanguageService?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandCSSLanguageService?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1323,7 +1323,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandCustomData/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandCustomData/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCustomData" target="_blank"><b>Documentation and sample for using VS Code custom data format —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDAPR" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandCustomData" target="_blank"><b>Documentation and sample for using VS Code custom data format</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDAPR" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDAPR?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDAPR?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1359,7 +1359,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDataWrangler/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDataWrangler/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDataWrangler" target="_blank"><b> —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDebugAdapterNode" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDataWrangler" target="_blank"><b></b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDebugAdapterNode" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDebugAdapterNode?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDebugAdapterNode?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1377,7 +1377,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDebugAdapterNode/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDebugAdapterNode/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDebugAdapterNode" target="_blank"><b>Debug adapter protocol and implementation for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDeployAzure" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDebugAdapterNode" target="_blank"><b>Debug adapter protocol and implementation for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDeployAzure" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDeployAzure?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDeployAzure?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1395,7 +1395,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDeployAzure/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDeployAzure/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDeployAzure" target="_blank"><b>VS code extension: Deploy To Azure, which helps set up CI⁄CD for deployment to Azure Resources —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDevChromeLauncher" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDeployAzure" target="_blank"><b>VS code extension: Deploy To Azure, which helps set up CI⁄CD for deployment to Azure Resources</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDevChromeLauncher" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDevChromeLauncher?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDevChromeLauncher?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1431,7 +1431,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDevContainers/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDevContainers/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDevContainers" target="_blank"><b>NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https:⁄⁄githubcom⁄devcontainers) See https:⁄⁄githubcom⁄devcontainers⁄template-starter and https:⁄⁄githubcom⁄devcontainers⁄feature-starter for information on creating your own! —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDiagnosticTools" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDevContainers" target="_blank"><b>NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https:⁄⁄githubcom⁄devcontainers) See https:⁄⁄githubcom⁄devcontainers⁄template-starter and https:⁄⁄githubcom⁄devcontainers⁄feature-starter for information on creating your own!</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDiagnosticTools" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDiagnosticTools?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDiagnosticTools?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1449,7 +1449,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDiagnosticTools/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDiagnosticTools/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDiagnosticTools" target="_blank"><b>A collection of tools designed to aid in diagnosing issues in VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDiscussions" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDiagnosticTools" target="_blank"><b>A collection of tools designed to aid in diagnosing issues in VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDiscussions" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDiscussions?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDiscussions?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1467,7 +1467,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDiscussions/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDiscussions/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDiscussions" target="_blank"><b>The official place to discuss all things VS Code! —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDocker" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDiscussions" target="_blank"><b>The official place to discuss all things VS Code!</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDocker" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDocker?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDocker?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1485,7 +1485,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDocker/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDocker/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDocker" target="_blank"><b>Docker Extension for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDockerExtensibility" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDocker" target="_blank"><b>Docker Extension for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDockerExtensibility" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDockerExtensibility?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDockerExtensibility?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1503,7 +1503,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDockerExtensibility/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDockerExtensibility/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDockerExtensibility" target="_blank"><b>Docker for Visual Studio Code: Extensibility Model —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDocs" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDockerExtensibility" target="_blank"><b>Docker for Visual Studio Code: Extensibility Model</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDocs" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDocs?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDocs?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1521,7 +1521,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDocs/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDocs/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDocs" target="_blank"><b>Public documentation for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDocsArchive" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDocs" target="_blank"><b>Public documentation for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDocsArchive" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDocsArchive?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDocsArchive?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1557,7 +1557,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDocsAuthoring/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDocsAuthoring/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDocsAuthoring" target="_blank"><b>VSCode extension that provides markdown authoring assistance to docsmicrosoftcom contributors —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDotNETTools" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDocsAuthoring" target="_blank"><b>VSCode extension that provides markdown authoring assistance to docsmicrosoftcom contributors</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDotNETTools" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDotNETTools?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDotNETTools?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1575,7 +1575,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDotNETTools/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDotNETTools/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDotNETTools" target="_blank"><b>This is a feedback repository to capture issues logged for the C# Dev Kit and related extensions from Visual Studio Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDtdl" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDotNETTools" target="_blank"><b>This is a feedback repository to capture issues logged for the C# Dev Kit and related extensions from Visual Studio Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDtdl" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDtdl?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDtdl?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1593,7 +1593,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDtdl/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDtdl/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDtdl" target="_blank"><b>Digital Twins Definition Language extension for VSCode —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDts" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDtdl" target="_blank"><b>Digital Twins Definition Language extension for VSCode</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDts" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDts?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDts?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1611,7 +1611,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDts/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDts/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDts" target="_blank"><b>CLI utility for downloading vscodedts and vscodeproposeddts —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDwarfDebugging" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDts" target="_blank"><b>CLI utility for downloading vscodedts and vscodeproposeddts</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDwarfDebugging" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDwarfDebugging?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDwarfDebugging?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1629,7 +1629,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandDwarfDebugging/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandDwarfDebugging/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDwarfDebugging" target="_blank"><b>Enables enhanced debugging of WebAssembly in VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDwarfDebuggingExt" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDwarfDebugging" target="_blank"><b>Enables enhanced debugging of WebAssembly in VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandDwarfDebuggingExt" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDwarfDebuggingExt?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandDwarfDebuggingExt?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1683,7 +1683,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandEdgeDebug2/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandEdgeDebug2/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEdgeDebug2" target="_blank"><b>This is a VS Code extension which helps you debug your JavaScript Code inside the Edge browser —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEdgeDevTools" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEdgeDebug2" target="_blank"><b>This is a VS Code extension which helps you debug your JavaScript Code inside the Edge browser</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEdgeDevTools" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandEdgeDevTools?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandEdgeDevTools?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1719,7 +1719,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandEdgeDevToolsNetwork/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandEdgeDevToolsNetwork/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEdgeDevToolsNetwork" target="_blank"><b>This extension is deprecated Its functionality is now part of the Microsoft Edge Developer Tools for Visual Studio Code extension —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEditorConfig" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEdgeDevToolsNetwork" target="_blank"><b>This extension is deprecated Its functionality is now part of the Microsoft Edge Developer Tools for Visual Studio Code extension</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEditorConfig" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandEditorConfig?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandEditorConfig?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1737,7 +1737,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandEditorConfig/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandEditorConfig/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEditorConfig" target="_blank"><b>[DEPRECATED] editorconfig extension for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEmbeddedTools" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEditorConfig" target="_blank"><b>[DEPRECATED] editorconfig extension for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEmbeddedTools" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandEmbeddedTools?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandEmbeddedTools?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1755,7 +1755,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandEmbeddedTools/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandEmbeddedTools/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEmbeddedTools" target="_blank"><b>Official issue tracking repository for Microsoft&#39;s Embedded Tools VS Code extension —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEmmetHelper" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEmbeddedTools" target="_blank"><b>Official issue tracking repository for Microsoft&#39;s Embedded Tools VS Code extension</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEmmetHelper" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandEmmetHelper?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandEmmetHelper?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1773,7 +1773,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandEmmetHelper/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandEmmetHelper/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEmmetHelper" target="_blank"><b>A helper module to use emmet modules with Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEmmetLegacy" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEmmetHelper" target="_blank"><b>A helper module to use emmet modules with Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEmmetLegacy" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandEmmetLegacy?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandEmmetLegacy?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1791,7 +1791,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandEmmetLegacy/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandEmmetLegacy/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEmmetLegacy" target="_blank"><b>Emmet features via extension for Visual Studio Code using the new API —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandESLint" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandEmmetLegacy" target="_blank"><b>Emmet features via extension for Visual Studio Code using the new API</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandESLint" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandESLint?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandESLint?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1809,7 +1809,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandESLint/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandESLint/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandESLint" target="_blank"><b>VSCode extension to integrate eslint into VSCode —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExplorerCommand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandESLint" target="_blank"><b>VSCode extension to integrate eslint into VSCode</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExplorerCommand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandExplorerCommand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandExplorerCommand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1827,7 +1827,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandExplorerCommand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandExplorerCommand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExplorerCommand" target="_blank"><b>Shell extension to integrate with Win11 Context menu via sparse pkg —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionLand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExplorerCommand" target="_blank"><b>Shell extension to integrate with Win11 Context menu via sparse pkg</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandExtensionLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandExtensionLand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1845,7 +1845,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandExtensionLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandExtensionLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionLand" target="_blank"><b>The vscode NPM module Deprecated in favor of @types⁄vscode and vscode-test —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionRecommender" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionLand" target="_blank"><b>The vscode NPM module Deprecated in favor of @types⁄vscode and vscode-test</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionRecommender" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandExtensionRecommender?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandExtensionRecommender?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1863,7 +1863,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandExtensionRecommender/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandExtensionRecommender/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionRecommender" target="_blank"><b>(Early preview) Recommender System for VS Code Extension —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionSamples" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionRecommender" target="_blank"><b>(Early preview) Recommender System for VS Code Extension</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionSamples" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandExtensionSamples?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandExtensionSamples?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1881,7 +1881,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandExtensionSamples/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandExtensionSamples/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionSamples" target="_blank"><b>Sample code illustrating the VS Code extension API —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionTelemetry" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionSamples" target="_blank"><b>Sample code illustrating the VS Code extension API</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionTelemetry" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandExtensionTelemetry?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandExtensionTelemetry?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1917,7 +1917,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandExtensionTestRunner/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandExtensionTestRunner/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionTestRunner" target="_blank"><b>Runs tests in the UI for VS Code extensions —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFigmaIcons" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandExtensionTestRunner" target="_blank"><b>Runs tests in the UI for VS Code extensions</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFigmaIcons" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandFigmaIcons?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandFigmaIcons?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1953,7 +1953,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandFigmaToolkit/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandFigmaToolkit/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFigmaToolkit" target="_blank"><b> A Figma design toolkit for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFileDownloader" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFigmaToolkit" target="_blank"><b> A Figma design toolkit for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFileDownloader" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandFileDownloader?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandFileDownloader?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1971,7 +1971,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandFileDownloader/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandFileDownloader/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFileDownloader" target="_blank"><b>Exposes an API that allows other VS Code extensions to download files —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFileDownloaderApi" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFileDownloader" target="_blank"><b>Exposes an API that allows other VS Code extensions to download files</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFileDownloaderApi" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandFileDownloaderApi?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandFileDownloaderApi?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -1989,7 +1989,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandFileDownloaderApi/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandFileDownloaderApi/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFileDownloaderApi" target="_blank"><b>NPM package providing the API library for the File Downloader Visual Studio Code extension —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFilewatcherWindows" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFileDownloaderApi" target="_blank"><b>NPM package providing the API library for the File Downloader Visual Studio Code extension</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFilewatcherWindows" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandFilewatcherWindows?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandFilewatcherWindows?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2007,7 +2007,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandFilewatcherWindows/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandFilewatcherWindows/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFilewatcherWindows" target="_blank"><b>The file watcher used for VS Code on Windows —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFlake8" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFilewatcherWindows" target="_blank"><b>The file watcher used for VS Code on Windows</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandFlake8" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandFlake8?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandFlake8?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2079,7 +2079,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandGeneratorCodeJavascript/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandGeneratorCodeJavascript/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGeneratorCodeJavascript" target="_blank"><b> —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGitHubIssueNotebooks" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGeneratorCodeJavascript" target="_blank"><b></b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGitHubIssueNotebooks" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandGitHubIssueNotebooks?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandGitHubIssueNotebooks?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2097,7 +2097,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandGitHubIssueNotebooks/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandGitHubIssueNotebooks/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGitHubIssueNotebooks" target="_blank"><b>GitHub Issues Notebooks for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGitHubIssuesPrs" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGitHubIssueNotebooks" target="_blank"><b>GitHub Issues Notebooks for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGitHubIssuesPrs" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandGitHubIssuesPrs?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandGitHubIssuesPrs?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2133,7 +2133,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandGitHubTriageActions/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandGitHubTriageActions/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGitHubTriageActions" target="_blank"><b>Github Actions for helping VS Code manage our issues —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGitHubTriageExtension" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGitHubTriageActions" target="_blank"><b>Github Actions for helping VS Code manage our issues</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGitHubTriageExtension" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandGitHubTriageExtension?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandGitHubTriageExtension?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2151,7 +2151,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandGitHubTriageExtension/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandGitHubTriageExtension/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGitHubTriageExtension" target="_blank"><b>A chromium extension to help with triaging VS Code GitHub issues —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGo" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGitHubTriageExtension" target="_blank"><b>A chromium extension to help with triaging VS Code GitHub issues</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGo" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandGo?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandGo?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2169,7 +2169,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandGo/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandGo/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGo" target="_blank"><b>An extension for VS Code which provides support for the Go language We have moved to https:⁄⁄githubcom⁄golang⁄vscode-go —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGradle" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGo" target="_blank"><b>An extension for VS Code which provides support for the Go language We have moved to https:⁄⁄githubcom⁄golang⁄vscode-go</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGradle" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandGradle?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandGradle?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2205,7 +2205,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandGrammarUpdater/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandGrammarUpdater/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGrammarUpdater" target="_blank"><b> —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGulpElectron" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGrammarUpdater" target="_blank"><b></b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGulpElectron" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandGulpElectron?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandGulpElectron?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2223,7 +2223,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandGulpElectron/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandGulpElectron/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGulpElectron" target="_blank"><b>Gulp plugin for packaging Electron into VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandHexEditor" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandGulpElectron" target="_blank"><b>Gulp plugin for packaging Electron into VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandHexEditor" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandHexEditor?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandHexEditor?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2241,7 +2241,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandHexEditor/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandHexEditor/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandHexEditor" target="_blank"><b>VS Code Hex Editor —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandHTMLHint" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandHexEditor" target="_blank"><b>VS Code Hex Editor</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandHTMLHint" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandHTMLHint?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandHTMLHint?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2277,7 +2277,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandHTMLLanguageService/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandHTMLLanguageService/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandHTMLLanguageService" target="_blank"><b>Language services for HTML —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandHTMLTagWrap" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandHTMLLanguageService" target="_blank"><b>Language services for HTML</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandHTMLTagWrap" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandHTMLTagWrap?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandHTMLTagWrap?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2331,7 +2331,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandIcons/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandIcons/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIcons" target="_blank"><b>Icons for Visual Studio Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIconvLiteUMD" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIcons" target="_blank"><b>Icons for Visual Studio Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIconvLiteUMD" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandIconvLiteUMD?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandIconvLiteUMD?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2349,7 +2349,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandIconvLiteUMD/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandIconvLiteUMD/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIconvLiteUMD" target="_blank"><b>A UMD version of iconv-lite to be used in VSCode —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIosWebDebug" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIconvLiteUMD" target="_blank"><b>A UMD version of iconv-lite to be used in VSCode</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIosWebDebug" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandIosWebDebug?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandIosWebDebug?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2367,7 +2367,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandIosWebDebug/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandIosWebDebug/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIosWebDebug" target="_blank"><b>Debug your JavaScript code running in Safari on iOS devices from VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIOTWorkbench" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIosWebDebug" target="_blank"><b>Debug your JavaScript code running in Safari on iOS devices from VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIOTWorkbench" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandIOTWorkbench?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandIOTWorkbench?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2403,7 +2403,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandIsort/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandIsort/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIsort" target="_blank"><b>Import sorting for python using the isort library —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJavaDebug" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandIsort" target="_blank"><b>Import sorting for python using the isort library</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJavaDebug" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJavaDebug?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJavaDebug?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2421,7 +2421,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJavaDebug/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJavaDebug/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJavaDebug" target="_blank"><b>Java Debugger for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJavaDependency" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJavaDebug" target="_blank"><b>Java Debugger for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJavaDependency" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJavaDependency?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJavaDependency?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2475,7 +2475,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJavaPack/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJavaPack/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJavaPack" target="_blank"><b>VS Code extensions for Java developers —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJavaTest" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJavaPack" target="_blank"><b>VS Code extensions for Java developers</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJavaTest" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJavaTest?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJavaTest?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2493,7 +2493,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJavaTest/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJavaTest/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJavaTest" target="_blank"><b>Run and debug Java test cases in Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSAtomGrammar" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJavaTest" target="_blank"><b>Run and debug Java test cases in Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSAtomGrammar" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJSAtomGrammar?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJSAtomGrammar?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2547,7 +2547,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJSDebug/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJSDebug/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSDebug" target="_blank"><b>The VS Code JavaScript debugger —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSDebugBrowsers" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSDebug" target="_blank"><b>The VS Code JavaScript debugger</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSDebugBrowsers" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJSDebugBrowsers?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJSDebugBrowsers?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2565,7 +2565,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJSDebugBrowsers/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJSDebugBrowsers/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSDebugBrowsers" target="_blank"><b>Browser launch and discovery logic used in VS Code&#39;s JavaScript Debugger —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSDebugCompanion" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSDebugBrowsers" target="_blank"><b>Browser launch and discovery logic used in VS Code&#39;s JavaScript Debugger</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSDebugCompanion" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJSDebugCompanion?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJSDebugCompanion?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2583,7 +2583,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJSDebugCompanion/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJSDebugCompanion/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSDebugCompanion" target="_blank"><b>Companion extension to js-debug that provides capability for remote debugging —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSHint" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSDebugCompanion" target="_blank"><b>Companion extension to js-debug that provides capability for remote debugging</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSHint" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJSHint?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJSHint?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2601,7 +2601,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJSHint/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJSHint/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSHint" target="_blank"><b>VSCode extension to integrate jshint into VSCode —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSON.tmLanguage" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSHint" target="_blank"><b>VSCode extension to integrate jshint into VSCode</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSON.tmLanguage" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJSON.tmLanguage?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJSON.tmLanguage?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2637,7 +2637,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJSonLanguageService/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJSonLanguageService/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSonLanguageService" target="_blank"><b>JSON language service extracted from VSCode to be reused, eg in the Monaco editor —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSProfileVisualizer" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSonLanguageService" target="_blank"><b>JSON language service extracted from VSCode to be reused, eg in the Monaco editor</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJSProfileVisualizer" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJSProfileVisualizer?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJSProfileVisualizer?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2673,7 +2673,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyter/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyter/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyter" target="_blank"><b>VS Code Jupyter extension —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterCellTags" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyter" target="_blank"><b>VS Code Jupyter extension</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterCellTags" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterCellTags?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterCellTags?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2691,7 +2691,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyterCellTags/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyterCellTags/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterCellTags" target="_blank"><b> —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterHub" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterCellTags" target="_blank"><b></b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterHub" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterHub?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterHub?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2709,7 +2709,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyterHub/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyterHub/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterHub" target="_blank"><b>Jupyter Hub Support in VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterIpywidgets" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterHub" target="_blank"><b>Jupyter Hub Support in VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterIpywidgets" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterIpywidgets?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterIpywidgets?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2727,7 +2727,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyterIpywidgets/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyterIpywidgets/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterIpywidgets" target="_blank"><b>NPM module for supporting ipywidgets in vscode-jupyter extension —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterKeymap" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterIpywidgets" target="_blank"><b>NPM module for supporting ipywidgets in vscode-jupyter extension</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterKeymap" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterKeymap?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterKeymap?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2745,7 +2745,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyterKeymap/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyterKeymap/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterKeymap" target="_blank"><b> —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterLSPMiddleware" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterKeymap" target="_blank"><b></b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterLSPMiddleware" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterLSPMiddleware?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterLSPMiddleware?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2763,7 +2763,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyterLSPMiddleware/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyterLSPMiddleware/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterLSPMiddleware" target="_blank"><b> —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterPowertoys" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterLSPMiddleware" target="_blank"><b></b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterPowertoys" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterPowertoys?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterPowertoys?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2781,7 +2781,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyterPowertoys/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandJupyterPowertoys/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterPowertoys" target="_blank"><b>PowerToys for Jupyter notebooks in VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterSlideshow" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterPowertoys" target="_blank"><b>PowerToys for Jupyter notebooks in VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandJupyterSlideshow" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterSlideshow?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandJupyterSlideshow?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2835,7 +2835,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandL10n/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandL10n/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandL10n" target="_blank"><b> —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLanguageDetection" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandL10n" target="_blank"><b></b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLanguageDetection" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandLanguageDetection?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandLanguageDetection?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2907,7 +2907,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandLaTeX/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandLaTeX/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLaTeX" target="_blank"><b>A colorizer and set of snippets for LaTeX —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLinuxBuildAgent" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLaTeX" target="_blank"><b>A colorizer and set of snippets for LaTeX</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLinuxBuildAgent" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandLinuxBuildAgent?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandLinuxBuildAgent?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2925,7 +2925,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandLinuxBuildAgent/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandLinuxBuildAgent/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLinuxBuildAgent" target="_blank"><b>VS Code Linux Build Agent —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLivePreview" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLinuxBuildAgent" target="_blank"><b>VS Code Linux Build Agent</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLivePreview" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandLivePreview?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandLivePreview?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -2997,7 +2997,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandLocDeprecated/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandLocDeprecated/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLocDeprecated" target="_blank"><b>Language packs that are stale and not included in the VS Code localization pipeline —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLombok" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLocDeprecated" target="_blank"><b>Language packs that are stale and not included in the VS Code localization pipeline</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLombok" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandLombok?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandLombok?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3015,7 +3015,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandLombok/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandLombok/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLombok" target="_blank"><b>Lombok Annotations Extension for Visual Studio Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLsifExtension" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLombok" target="_blank"><b>Lombok Annotations Extension for Visual Studio Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLsifExtension" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandLsifExtension?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandLsifExtension?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3033,7 +3033,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandLsifExtension/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandLsifExtension/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLsifExtension" target="_blank"><b>Extension for a LSIF Server —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMakecode" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandLsifExtension" target="_blank"><b>Extension for a LSIF Server</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMakecode" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMakecode?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMakecode?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3051,7 +3051,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandMakecode/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandMakecode/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMakecode" target="_blank"><b>A vscodedev compatible extension for Microsoft MakeCode —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMakefileTools" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMakecode" target="_blank"><b>A vscodedev compatible extension for Microsoft MakeCode</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMakefileTools" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMakefileTools?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMakefileTools?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3087,7 +3087,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandMarkdownItKatex/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandMarkdownItKatex/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMarkdownItKatex" target="_blank"><b>Add Math to your Markdown with a KaTeX plugin for Markdown-it —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMarkdownLanguageService" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMarkdownItKatex" target="_blank"><b>Add Math to your Markdown with a KaTeX plugin for Markdown-it</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMarkdownLanguageService" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMarkdownLanguageService?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMarkdownLanguageService?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3123,7 +3123,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandMarkdownNotebook/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandMarkdownNotebook/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMarkdownNotebook" target="_blank"><b>An extension for editing markdown files in VS Code notebooks —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMarkdownTmGrammar" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMarkdownNotebook" target="_blank"><b>An extension for editing markdown files in VS Code notebooks</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMarkdownTmGrammar" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMarkdownTmGrammar?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMarkdownTmGrammar?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3141,7 +3141,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandMarkdownTmGrammar/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandMarkdownTmGrammar/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMarkdownTmGrammar" target="_blank"><b>VS Code built-in markdown extension&#39;s Textmate grammar —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMaven" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMarkdownTmGrammar" target="_blank"><b>VS Code built-in markdown extension&#39;s Textmate grammar</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMaven" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMaven?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMaven?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3159,7 +3159,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandMaven/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandMaven/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMaven" target="_blank"><b>VSCode extension Maven for Java —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMDTools" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMaven" target="_blank"><b>VSCode extension Maven for Java</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMDTools" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMDTools?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMDTools?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3177,7 +3177,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandMDTools/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandMDTools/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMDTools" target="_blank"><b>This is a sample markdown extension eg wordcount and toUpper —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMezzurite" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMDTools" target="_blank"><b>This is a sample markdown extension eg wordcount and toUpper</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMezzurite" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMezzurite?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMezzurite?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3195,7 +3195,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandMezzurite/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandMezzurite/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMezzurite" target="_blank"><b>VS-code extension to improve the integration with Mezzurite experience —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMinimist" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMezzurite" target="_blank"><b>VS-code extension to improve the integration with Mezzurite experience</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMinimist" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMinimist?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMinimist?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3231,7 +3231,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandMockDebug/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandMockDebug/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMockDebug" target="_blank"><b>Starter sample for developing debug adapters for VSCode —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMongoDB" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMockDebug" target="_blank"><b>Starter sample for developing debug adapters for VSCode</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMongoDB" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMongoDB?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMongoDB?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3267,7 +3267,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandMonoDebug/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandMonoDebug/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMonoDebug" target="_blank"><b>A simple VS Code debug adapter for mono —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMssql" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMonoDebug" target="_blank"><b>A simple VS Code debug adapter for mono</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandMssql" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMssql?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandMssql?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3321,7 +3321,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandNls/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandNls/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNls" target="_blank"><b>npm module to support externalization and localization of VSCode extensions —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNlsDev" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNls" target="_blank"><b>npm module to support externalization and localization of VSCode extensions</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNlsDev" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNlsDev?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNlsDev?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3357,7 +3357,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandNodeAzurePack/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandNodeAzurePack/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodeAzurePack" target="_blank"><b>Node Azure Tools for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodebook" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodeAzurePack" target="_blank"><b>Node Azure Tools for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodebook" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNodebook?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNodebook?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3375,7 +3375,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandNodebook/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandNodebook/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodebook" target="_blank"><b>Nodejs notebook —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodeDebug" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodebook" target="_blank"><b>Nodejs notebook</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodeDebug" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNodeDebug?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNodeDebug?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3393,7 +3393,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandNodeDebug/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandNodeDebug/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodeDebug" target="_blank"><b>A VS Code debug adapter for node —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodeDebug2" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodeDebug" target="_blank"><b>A VS Code debug adapter for node</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodeDebug2" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNodeDebug2?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNodeDebug2?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3411,7 +3411,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandNodeDebug2/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandNodeDebug2/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodeDebug2" target="_blank"><b>A VS Code debug adapter that supports debugging Node via the Chrome Debugging Protocol —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodeSQLite3" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodeDebug2" target="_blank"><b>A VS Code debug adapter that supports debugging Node via the Chrome Debugging Protocol</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNodeSQLite3" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNodeSQLite3?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNodeSQLite3?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3447,7 +3447,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandNotebookErrorOverlay/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandNotebookErrorOverlay/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotebookErrorOverlay" target="_blank"><b>Provides a notebook-aware error overlay in VS Code notebooks built with the webpack-dev-server —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotebookRenderers" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotebookErrorOverlay" target="_blank"><b>Provides a notebook-aware error overlay in VS Code notebooks built with the webpack-dev-server</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotebookRenderers" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNotebookRenderers?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNotebookRenderers?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3465,7 +3465,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandNotebookRenderers/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandNotebookRenderers/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotebookRenderers" target="_blank"><b> —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotebookRendererStarter" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotebookRenderers" target="_blank"><b></b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotebookRendererStarter" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNotebookRendererStarter?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNotebookRendererStarter?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3483,7 +3483,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandNotebookRendererStarter/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandNotebookRendererStarter/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotebookRendererStarter" target="_blank"><b>Notebook renderer starter template —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotebookTestData" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotebookRendererStarter" target="_blank"><b>Notebook renderer starter template</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotebookTestData" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNotebookTestData?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNotebookTestData?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3519,7 +3519,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandNotepadPlusPlusKeybindings/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandNotepadPlusPlusKeybindings/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotepadPlusPlusKeybindings" target="_blank"><b>Notepad++ Keybindings extension for VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNPMScripts" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNotepadPlusPlusKeybindings" target="_blank"><b>Notepad++ Keybindings extension for VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandNPMScripts" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNPMScripts?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandNPMScripts?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3573,7 +3573,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandOnedriveBrowser/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandOnedriveBrowser/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandOnedriveBrowser" target="_blank"><b>Browse and edit files from OneDrive in VS Code and on vscodedev —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandOniguruma" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandOnedriveBrowser" target="_blank"><b>Browse and edit files from OneDrive in VS Code and on vscodedev</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandOniguruma" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandOniguruma?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandOniguruma?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3591,7 +3591,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandOniguruma/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandOniguruma/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandOniguruma" target="_blank"><b>Oniguruma Bindings for VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandOpenSSLPrebuilt" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandOniguruma" target="_blank"><b>Oniguruma Bindings for VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandOpenSSLPrebuilt" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandOpenSSLPrebuilt?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandOpenSSLPrebuilt?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3609,7 +3609,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandOpenSSLPrebuilt/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandOpenSSLPrebuilt/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandOpenSSLPrebuilt" target="_blank"><b>Builds openssl libraries packages for VS Code on multiple platforms —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPerf" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandOpenSSLPrebuilt" target="_blank"><b>Builds openssl libraries packages for VS Code on multiple platforms</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPerf" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPerf?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPerf?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3681,7 +3681,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandPolicyWatcher/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandPolicyWatcher/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPolicyWatcher" target="_blank"><b>VS Code native module for loading and reading OS policies —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPostgresql" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPolicyWatcher" target="_blank"><b>VS Code native module for loading and reading OS policies</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPostgresql" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPostgresql?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPostgresql?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3735,7 +3735,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandPowerquerySdk/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandPowerquerySdk/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPowerquerySdk" target="_blank"><b>Power Query Connector Development SDK for VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandProxyAgent" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPowerquerySdk" target="_blank"><b>Power Query Connector Development SDK for VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandProxyAgent" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandProxyAgent?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandProxyAgent?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3753,7 +3753,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandProxyAgent/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandProxyAgent/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandProxyAgent" target="_blank"><b>A PAC file proxy `httpAgent` implementation for HTTP and HTTPS —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPullRequestGitHub" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandProxyAgent" target="_blank"><b>A PAC file proxy `httpAgent` implementation for HTTP and HTTPS</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPullRequestGitHub" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPullRequestGitHub?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPullRequestGitHub?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3807,7 +3807,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandPylint/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandPylint/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPylint" target="_blank"><b>Linting support for python using the pylint library —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPython" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPylint" target="_blank"><b>Linting support for python using the pylint library</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPython" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPython?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPython?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3825,7 +3825,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandPython/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandPython/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPython" target="_blank"><b>Python extension for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonDebugger" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPython" target="_blank"><b>Python extension for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonDebugger" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPythonDebugger?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPythonDebugger?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3843,7 +3843,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandPythonDebugger/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandPythonDebugger/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonDebugger" target="_blank"><b> —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonDeviceSimulator" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonDebugger" target="_blank"><b></b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonDeviceSimulator" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPythonDeviceSimulator?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPythonDeviceSimulator?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3897,7 +3897,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandPythonInstaller/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandPythonInstaller/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonInstaller" target="_blank"><b>Code for running pip and conda installs from a VS Code extension —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonToolsExtensionTemplate" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonInstaller" target="_blank"><b>Code for running pip and conda installs from a VS Code extension</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonToolsExtensionTemplate" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPythonToolsExtensionTemplate?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPythonToolsExtensionTemplate?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3915,7 +3915,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandPythonToolsExtensionTemplate/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandPythonToolsExtensionTemplate/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonToolsExtensionTemplate" target="_blank"><b>Template for creating VS Code extensions for python tools —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonWebWASM" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonToolsExtensionTemplate" target="_blank"><b>Template for creating VS Code extensions for python tools</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonWebWASM" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPythonWebWASM?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandPythonWebWASM?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3933,7 +3933,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandPythonWebWASM/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandPythonWebWASM/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonWebWASM" target="_blank"><b>An extension allows to run Python code in a Web browser using WebAssembly technology —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandReactNative" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandPythonWebWASM" target="_blank"><b>An extension allows to run Python code in a Web browser using WebAssembly technology</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandReactNative" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandReactNative?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandReactNative?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3969,7 +3969,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandReactSample/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandReactSample/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandReactSample" target="_blank"><b>React todo demo for Build conference —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRecipes" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandReactSample" target="_blank"><b>React todo demo for Build conference</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRecipes" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRecipes?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRecipes?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -3987,7 +3987,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandRecipes/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandRecipes/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRecipes" target="_blank"><b> —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandReferencesView" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRecipes" target="_blank"><b></b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandReferencesView" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandReferencesView?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandReferencesView?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4005,7 +4005,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandReferencesView/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandReferencesView/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandReferencesView" target="_blank"><b>Show reference search results as tree —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteRelease" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandReferencesView" target="_blank"><b>Show reference search results as tree</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteRelease" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteRelease?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteRelease?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4023,7 +4023,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteRelease/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteRelease/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteRelease" target="_blank"><b>Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code&#39;s full feature set —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteRepositoriesGitHub" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteRelease" target="_blank"><b>Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code&#39;s full feature set</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteRepositoriesGitHub" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteRepositoriesGitHub?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteRepositoriesGitHub?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4041,7 +4041,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteRepositoriesGitHub/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteRepositoriesGitHub/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteRepositoriesGitHub" target="_blank"><b>Quickly browse, search, edit, and commit to any GitHub or Azure Repos repository directly from within Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryCPP" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteRepositoriesGitHub" target="_blank"><b>Quickly browse, search, edit, and commit to any GitHub or Azure Repos repository directly from within Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryCPP" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryCPP?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryCPP?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4059,7 +4059,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryCPP/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryCPP/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryCPP" target="_blank"><b>C++ sample project for trying out Dev Containers —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryDotNET" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryCPP" target="_blank"><b>C++ sample project for trying out Dev Containers</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryDotNET" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryDotNET?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryDotNET?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4077,7 +4077,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryDotNET/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryDotNET/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryDotNET" target="_blank"><b>NET sample project for trying out Dev Containers —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryGo" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryDotNET" target="_blank"><b>NET sample project for trying out Dev Containers</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryGo" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryGo?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryGo?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4095,7 +4095,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryGo/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryGo/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryGo" target="_blank"><b>Go sample project for trying out Dev Containers —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryJava" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryGo" target="_blank"><b>Go sample project for trying out Dev Containers</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryJava" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryJava?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryJava?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4131,7 +4131,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryNode/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryNode/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryNode" target="_blank"><b>Nodejs sample project for trying out Dev Containers —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryPhp" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryNode" target="_blank"><b>Nodejs sample project for trying out Dev Containers</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryPhp" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryPhp?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryPhp?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4149,7 +4149,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryPhp/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryPhp/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryPhp" target="_blank"><b>PHP sample project for trying out Dev Containers —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryPython" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryPhp" target="_blank"><b>PHP sample project for trying out Dev Containers</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryPython" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryPython?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryPython?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4167,7 +4167,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryPython/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryPython/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryPython" target="_blank"><b>Python sample project for trying out Dev Containers —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryRust" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryPython" target="_blank"><b>Python sample project for trying out Dev Containers</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryRust" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryRust?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTryRust?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4185,7 +4185,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryRust/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTryRust/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryRust" target="_blank"><b>Rust sample project for trying out Dev Containers —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTrySQLserver" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTryRust" target="_blank"><b>Rust sample project for trying out Dev Containers</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTrySQLserver" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTrySQLserver?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteTrySQLserver?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4203,7 +4203,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTrySQLserver/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteTrySQLserver/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTrySQLserver" target="_blank"><b>SQL Server and Azure SQL sample project for trying out the Dev Containers extension —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteWSLRecommender" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteTrySQLserver" target="_blank"><b>SQL Server and Azure SQL sample project for trying out the Dev Containers extension</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteWSLRecommender" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteWSLRecommender?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRemoteWSLRecommender?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4221,7 +4221,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteWSLRecommender/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandRemoteWSLRecommender/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteWSLRecommender" target="_blank"><b>VS Code extension that recommends using the Windows Subsystem for Linux (WSL) and the Remote WSL extension —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandResharperKeybindings" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRemoteWSLRecommender" target="_blank"><b>VS Code extension that recommends using the Windows Subsystem for Linux (WSL) and the Remote WSL extension</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandResharperKeybindings" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandResharperKeybindings?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandResharperKeybindings?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4239,7 +4239,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandResharperKeybindings/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandResharperKeybindings/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandResharperKeybindings" target="_blank"><b>Resharper 9 Keybindings port to VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRipGREP" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandResharperKeybindings" target="_blank"><b>Resharper 9 Keybindings port to VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRipGREP" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRipGREP?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRipGREP?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4257,7 +4257,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandRipGREP/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandRipGREP/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRipGREP" target="_blank"><b>For consuming the ripgrep binary from microsoft⁄ripgrep-prebuilt in a Node project —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRussh" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRipGREP" target="_blank"><b>For consuming the ripgrep binary from microsoft⁄ripgrep-prebuilt in a Node project</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandRussh" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRussh?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandRussh?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4311,7 +4311,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandSCMBuilders/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandSCMBuilders/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSCMBuilders" target="_blank"><b>This is a repo to help the extension builder community create new SCM providers for Visual Studio Code It contains samples as well as instructions for getting going —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSecretServiceRs" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSCMBuilders" target="_blank"><b>This is a repo to help the extension builder community create new SCM providers for Visual Studio Code It contains samples as well as instructions for getting going</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSecretServiceRs" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandSecretServiceRs?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandSecretServiceRs?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4329,7 +4329,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandSecretServiceRs/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandSecretServiceRs/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSecretServiceRs" target="_blank"><b>Rust library for interfacing with Secret Service API —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSelfhostTestProvider" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSecretServiceRs" target="_blank"><b>Rust library for interfacing with Secret Service API</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSelfhostTestProvider" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandSelfhostTestProvider?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandSelfhostTestProvider?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4347,7 +4347,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandSelfhostTestProvider/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandSelfhostTestProvider/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSelfhostTestProvider" target="_blank"><b>Test provider for the VS Code project —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSerialMonitor" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSelfhostTestProvider" target="_blank"><b>Test provider for the VS Code project</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSerialMonitor" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandSerialMonitor?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandSerialMonitor?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4383,7 +4383,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandServiceFabricReliableServices/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandServiceFabricReliableServices/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandServiceFabricReliableServices" target="_blank"><b>Visual Studio Code extension for Reliable Services in Service Fabric —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandServiceStatus" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandServiceFabricReliableServices" target="_blank"><b>Visual Studio Code extension for Reliable Services in Service Fabric</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandServiceStatus" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandServiceStatus?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandServiceStatus?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4401,7 +4401,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandServiceStatus/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandServiceStatus/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandServiceStatus" target="_blank"><b>This repository is used to track live site incidents impacting services that power Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSimpleJupyterNotebook" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandServiceStatus" target="_blank"><b>This repository is used to track live site incidents impacting services that power Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSimpleJupyterNotebook" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandSimpleJupyterNotebook?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandSimpleJupyterNotebook?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4491,7 +4491,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandSpellCheck/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandSpellCheck/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSpellCheck" target="_blank"><b>An extension to VSCode for spell and grammar checking —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSpringBootDashboard" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSpellCheck" target="_blank"><b>An extension to VSCode for spell and grammar checking</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSpringBootDashboard" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandSpringBootDashboard?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandSpringBootDashboard?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4527,7 +4527,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandSpringInitializr/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandSpringInitializr/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSpringInitializr" target="_blank"><b>VSCode Extension for Spring Initializr —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandStac" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSpringInitializr" target="_blank"><b>VSCode Extension for Spring Initializr</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandStac" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandStac?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandStac?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4563,7 +4563,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandSublimeKeybindings/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandSublimeKeybindings/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSublimeKeybindings" target="_blank"><b>Sublime Text Keymap extension for VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTasAngular" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandSublimeKeybindings" target="_blank"><b>Sublime Text Keymap extension for VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTasAngular" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTasAngular?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTasAngular?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4635,7 +4635,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandTeam/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandTeam/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTeam" target="_blank"><b>VS Code Team Nodebook —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTelemetryExtractor" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTeam" target="_blank"><b>VS Code Team Nodebook</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTelemetryExtractor" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTelemetryExtractor?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTelemetryExtractor?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4653,7 +4653,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandTelemetryExtractor/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandTelemetryExtractor/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTelemetryExtractor" target="_blank"><b>Allows the extraction of telemetry events from the VS Code source code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTensorboard" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTelemetryExtractor" target="_blank"><b>Allows the extraction of telemetry events from the VS Code source code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTensorboard" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTensorboard?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTensorboard?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4671,7 +4671,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandTensorboard/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandTensorboard/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTensorboard" target="_blank"><b>Launch and view Tensorboards in VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTest" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTensorboard" target="_blank"><b>Launch and view Tensorboards in VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTest" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTest?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTest?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4689,7 +4689,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandTest/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandTest/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTest" target="_blank"><b>Testing utility for VS Code extensions —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTestAdapterConverter" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTest" target="_blank"><b>Testing utility for VS Code extensions</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTestAdapterConverter" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTestAdapterConverter?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTestAdapterConverter?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4707,7 +4707,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandTestAdapterConverter/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandTestAdapterConverter/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTestAdapterConverter" target="_blank"><b>Bridge extension for converting Test Adapter UI to native VS Code testing —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTestCli" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTestAdapterConverter" target="_blank"><b>Bridge extension for converting Test Adapter UI to native VS Code testing</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTestCli" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTestCli?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTestCli?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4761,7 +4761,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandTestWeb/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandTestWeb/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTestWeb" target="_blank"><b>Node module to help testing VS Code web extensions —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTextBuffer" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTestWeb" target="_blank"><b>Node module to help testing VS Code web extensions</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTextBuffer" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTextBuffer?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTextBuffer?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4779,7 +4779,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandTextBuffer/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandTextBuffer/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTextBuffer" target="_blank"><b>The text buffer implementation that is used in VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTextMate" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTextBuffer" target="_blank"><b>The text buffer implementation that is used in VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTextMate" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTextMate?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTextMate?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4815,7 +4815,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandThemeColorConsumer/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandThemeColorConsumer/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandThemeColorConsumer" target="_blank"><b>Normalizes vscode themes and colors —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandThemes" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandThemeColorConsumer" target="_blank"><b>Normalizes vscode themes and colors</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandThemes" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandThemes?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandThemes?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4851,7 +4851,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandThemeTester/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandThemeTester/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandThemeTester" target="_blank"><b>VS Code extension to preview a theme without installing it —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTipsAndTricks" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandThemeTester" target="_blank"><b>VS Code extension to preview a theme without installing it</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTipsAndTricks" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTipsAndTricks?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTipsAndTricks?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4869,7 +4869,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandTipsAndTricks/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandTipsAndTricks/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTipsAndTricks" target="_blank"><b>Collection of helpful tips and tricks for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTMDL" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTipsAndTricks" target="_blank"><b>Collection of helpful tips and tricks for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTMDL" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTMDL?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTMDL?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4887,7 +4887,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandTMDL/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandTMDL/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTMDL" target="_blank"><b>Tabular Model Definition Language (TMDL) Extensions for Visual Studio Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandToolsForAI" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTMDL" target="_blank"><b>Tabular Model Definition Language (TMDL) Extensions for Visual Studio Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandToolsForAI" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandToolsForAI?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandToolsForAI?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4941,7 +4941,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandTSPackageManager/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandTSPackageManager/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTSPackageManager" target="_blank"><b>Web-compatible package manager for tsserver —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTSTSLint" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTSPackageManager" target="_blank"><b>Web-compatible package manager for tsserver</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTSTSLint" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTSTSLint?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTSTSLint?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4977,7 +4977,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandTye/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandTye/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTye" target="_blank"><b>A Visual Studio Code extension for Tye development —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTypeScriptNext" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTye" target="_blank"><b>A Visual Studio Code extension for Tye development</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTypeScriptNext" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTypeScriptNext?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTypeScriptNext?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -4995,7 +4995,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandTypeScriptNext/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandTypeScriptNext/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTypeScriptNext" target="_blank"><b>Enables typescript@next as VS Code&#39;s built-in TypeScript version —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTypeScriptTSLintPlugin" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTypeScriptNext" target="_blank"><b>Enables typescript@next as VS Code&#39;s built-in TypeScript version</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTypeScriptTSLintPlugin" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTypeScriptTSLintPlugin?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandTypeScriptTSLintPlugin?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5013,7 +5013,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandTypeScriptTSLintPlugin/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandTypeScriptTSLintPlugin/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTypeScriptTSLintPlugin" target="_blank"><b>VS Code extension that provides TSLint support using the typescript-tslint-plugin —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandURI" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandTypeScriptTSLintPlugin" target="_blank"><b>VS Code extension that provides TSLint support using the typescript-tslint-plugin</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandURI" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandURI?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandURI?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5031,7 +5031,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandURI/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandURI/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandURI" target="_blank"><b>The URI implementation that is used in VS Code and its extensions —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandV8HeapTools" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandURI" target="_blank"><b>The URI implementation that is used in VS Code and its extensions</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandV8HeapTools" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandV8HeapTools?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandV8HeapTools?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5049,7 +5049,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandV8HeapTools/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandV8HeapTools/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandV8HeapTools" target="_blank"><b> —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandVSCE" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandV8HeapTools" target="_blank"><b></b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandVSCE" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandVSCE?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandVSCE?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5085,7 +5085,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandVSKeybindings/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandVSKeybindings/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandVSKeybindings" target="_blank"><b>Visual Studio Keymap for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWASM" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandVSKeybindings" target="_blank"><b>Visual Studio Keymap for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWASM" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWASM?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWASM?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5103,7 +5103,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandWASM/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandWASM/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWASM" target="_blank"><b>A WASI implementation that uses VS Code&#39;s extension host as the implementing API —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWebPlayground" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWASM" target="_blank"><b>A WASI implementation that uses VS Code&#39;s extension host as the implementing API</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWebPlayground" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWebPlayground?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWebPlayground?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5139,7 +5139,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandWebViewUIToolkit/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandWebViewUIToolkit/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWebViewUIToolkit" target="_blank"><b>A component library for building webview-based extensions in Visual Studio Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWebViewUIToolkitSamples" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWebViewUIToolkit" target="_blank"><b>A component library for building webview-based extensions in Visual Studio Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWebViewUIToolkitSamples" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWebViewUIToolkitSamples?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWebViewUIToolkitSamples?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5157,7 +5157,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandWebViewUIToolkitSamples/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandWebViewUIToolkitSamples/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWebViewUIToolkitSamples" target="_blank"><b>A collection of sample extensions built with the Webview UI Toolkit for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWiki" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWebViewUIToolkitSamples" target="_blank"><b>A collection of sample extensions built with the Webview UI Toolkit for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWiki" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWiki?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWiki?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5175,7 +5175,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandWiki/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandWiki/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWiki" target="_blank"><b>A repository to make changes to the vscode Wiki on GitHub —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWin32AppContainerTokens" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWiki" target="_blank"><b>A repository to make changes to the vscode Wiki on GitHub</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWin32AppContainerTokens" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWin32AppContainerTokens?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWin32AppContainerTokens?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5193,7 +5193,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandWin32AppContainerTokens/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandWin32AppContainerTokens/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWin32AppContainerTokens" target="_blank"><b>Native win32 Nodejs addon to retrieve named pipes from app contains —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWindowsCaCerts" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWin32AppContainerTokens" target="_blank"><b>Native win32 Nodejs addon to retrieve named pipes from app contains</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWindowsCaCerts" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWindowsCaCerts?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWindowsCaCerts?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5211,7 +5211,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandWindowsCaCerts/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandWindowsCaCerts/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWindowsCaCerts" target="_blank"><b>Get Windows System Root certificates —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWindowsProcessTree" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWindowsCaCerts" target="_blank"><b>Get Windows System Root certificates</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWindowsProcessTree" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWindowsProcessTree?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWindowsProcessTree?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5229,7 +5229,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandWindowsProcessTree/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandWindowsProcessTree/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWindowsProcessTree" target="_blank"><b>Fetch a Windows process tree fast in Nodejs —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWindowsRegistry" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWindowsProcessTree" target="_blank"><b>Fetch a Windows process tree fast in Nodejs</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWindowsRegistry" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWindowsRegistry?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWindowsRegistry?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5247,7 +5247,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandWindowsRegistry/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandWindowsRegistry/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWindowsRegistry" target="_blank"><b>Native node module to access the Windows Registry —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWinsta11er" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWindowsRegistry" target="_blank"><b>Native node module to access the Windows Registry</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWinsta11er" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWinsta11er?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWinsta11er?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5265,7 +5265,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandWinsta11er/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandWinsta11er/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWinsta11er" target="_blank"><b>Windows Store Installer for VS Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWordCount" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWinsta11er" target="_blank"><b>Windows Store Installer for VS Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWordCount" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWordCount?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandWordCount?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5283,7 +5283,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandWordCount/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandWordCount/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWordCount" target="_blank"><b>Sample Word Count extension for VS Code —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandZeroMQ" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandWordCount" target="_blank"><b>Sample Word Count extension for VS Code</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LandZeroMQ" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandZeroMQ?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandZeroMQ?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5301,7 +5301,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandZeroMQ/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandZeroMQ/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandZeroMQ" target="_blank"><b>For consuming the zeromq binary from microsoft⁄zeromq-prebuilt in a Node project —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LinkCheckerMD" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LandZeroMQ" target="_blank"><b>For consuming the zeromq binary from microsoft⁄zeromq-prebuilt in a Node project</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/LinkCheckerMD" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LinkCheckerMD?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LinkCheckerMD?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5319,7 +5319,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LinkCheckerMD/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LinkCheckerMD/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LinkCheckerMD" target="_blank"><b>A VSCode extension that check links in Markdown to ensure they are valid —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/MonacoEditor" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/LinkCheckerMD" target="_blank"><b>A VSCode extension that check links in Markdown to ensure they are valid</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/MonacoEditor" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/MonacoEditor?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/MonacoEditor?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5337,7 +5337,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/MonacoEditor/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/MonacoEditor/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/MonacoEditor" target="_blank"><b>A browser based code editor —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/NodeRequestLight" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/MonacoEditor" target="_blank"><b>A browser based code editor</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/NodeRequestLight" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/NodeRequestLight?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/NodeRequestLight?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5355,7 +5355,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/NodeRequestLight/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/NodeRequestLight/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/NodeRequestLight" target="_blank"><b>A light weight nodejs request library with proxy support Intended to be used by VSCode extensions —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PlaywrightLand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/NodeRequestLight" target="_blank"><b>A light weight nodejs request library with proxy support Intended to be used by VSCode extensions</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PlaywrightLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PlaywrightLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PlaywrightLand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5373,7 +5373,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/PlaywrightLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/PlaywrightLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PlaywrightLand" target="_blank"><b>Playwright Test Visual Studio Code integration —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PowerPlatformLand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PlaywrightLand" target="_blank"><b>Playwright Test Visual Studio Code integration</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PowerPlatformLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PowerPlatformLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PowerPlatformLand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5391,7 +5391,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/PowerPlatformLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/PowerPlatformLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PowerPlatformLand" target="_blank"><b>The Power Platform VSCode extension makes it easy to manage Power Platform environments and allows the developer to create, build and deploy Power Platform solutions, packages and portals —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PowerPlatformLandLab" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PowerPlatformLand" target="_blank"><b>The Power Platform VSCode extension makes it easy to manage Power Platform environments and allows the developer to create, build and deploy Power Platform solutions, packages and portals</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PowerPlatformLandLab" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PowerPlatformLandLab?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PowerPlatformLandLab?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5409,7 +5409,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/PowerPlatformLandLab/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/PowerPlatformLandLab/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PowerPlatformLandLab" target="_blank"><b>Hands-on lab for Power Platform Tools for Visual Studio Code —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PSDocsLand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PowerPlatformLandLab" target="_blank"><b>Hands-on lab for Power Platform Tools for Visual Studio Code</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PSDocsLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PSDocsLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PSDocsLand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5427,7 +5427,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/PSDocsLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/PSDocsLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PSDocsLand" target="_blank"><b>A Visual Studio Code extension for PSDocsAzure —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PSRuleLand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PSDocsLand" target="_blank"><b>A Visual Studio Code extension for PSDocsAzure</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PSRuleLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PSRuleLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PSRuleLand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5445,7 +5445,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/PSRuleLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/PSRuleLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PSRuleLand" target="_blank"><b>A Visual Studio Code extension for PSRule —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PVSCBot" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PSRuleLand" target="_blank"><b>A Visual Studio Code extension for PSRule</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PVSCBot" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PVSCBot?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PVSCBot?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5463,7 +5463,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/PVSCBot/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/PVSCBot/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PVSCBot" target="_blank"><b>GitHub bot for Microsoft⁄vscode-python —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PythonSampleLandDjangoTutorial" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PVSCBot" target="_blank"><b>GitHub bot for Microsoft⁄vscode-python</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PythonSampleLandDjangoTutorial" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PythonSampleLandDjangoTutorial?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PythonSampleLandDjangoTutorial?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5481,7 +5481,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/PythonSampleLandDjangoTutorial/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/PythonSampleLandDjangoTutorial/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PythonSampleLandDjangoTutorial" target="_blank"><b>Sample code for the Django tutorial in the VS Code documentation —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PythonSampleLandFastapiTutorial" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PythonSampleLandDjangoTutorial" target="_blank"><b>Sample code for the Django tutorial in the VS Code documentation</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PythonSampleLandFastapiTutorial" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PythonSampleLandFastapiTutorial?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PythonSampleLandFastapiTutorial?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5499,7 +5499,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/PythonSampleLandFastapiTutorial/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/PythonSampleLandFastapiTutorial/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PythonSampleLandFastapiTutorial" target="_blank"><b>Sample code for the FastAPI tutorial in the VS Code documentation —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PythonSampleLandFlaskTutorial" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PythonSampleLandFastapiTutorial" target="_blank"><b>Sample code for the FastAPI tutorial in the VS Code documentation</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/PythonSampleLandFlaskTutorial" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PythonSampleLandFlaskTutorial?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/PythonSampleLandFlaskTutorial?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5517,7 +5517,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/PythonSampleLandFlaskTutorial/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/PythonSampleLandFlaskTutorial/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PythonSampleLandFlaskTutorial" target="_blank"><b>Sample code for the Flask tutorial in the VS Code documentation —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Quantum" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/PythonSampleLandFlaskTutorial" target="_blank"><b>Sample code for the Flask tutorial in the VS Code documentation</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Quantum" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Quantum?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/Quantum?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5535,7 +5535,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/Quantum/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/Quantum/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Quantum" target="_blank"><b>Tauri + Solid add support for Android and iOS on top of desktop builds (linux, mac, windows) —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/SarifLandExtension" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/Quantum" target="_blank"><b>Tauri + Solid add support for Android and iOS on top of desktop builds (linux, mac, windows)</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/SarifLandExtension" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/SarifLandExtension?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/SarifLandExtension?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5553,7 +5553,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/SarifLandExtension/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/SarifLandExtension/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/SarifLandExtension" target="_blank"><b>SARIF Microsoft Visual Studio Code extension —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/ScopeStudioLand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/SarifLandExtension" target="_blank"><b>SARIF Microsoft Visual Studio Code extension</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/ScopeStudioLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/ScopeStudioLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/ScopeStudioLand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5571,7 +5571,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/ScopeStudioLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/ScopeStudioLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/ScopeStudioLand" target="_blank"><b>this is the git hub repo for SCOPE Studio vscode —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/SynapseLand" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/ScopeStudioLand" target="_blank"><b>this is the git hub repo for SCOPE Studio vscode</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/SynapseLand" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/SynapseLand?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/SynapseLand?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5589,7 +5589,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/SynapseLand/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/SynapseLand/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/SynapseLand" target="_blank"><b>this is the repo of the Synapse VS Code extension for Microsoft Fabric —</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/ThemeConverterForVS" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/SynapseLand" target="_blank"><b>this is the repo of the Synapse VS Code extension for Microsoft Fabric</b></a></td></tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/ThemeConverterForVS" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/ThemeConverterForVS?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/ThemeConverterForVS?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5607,7 +5607,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/ThemeConverterForVS/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/ThemeConverterForVS/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/ThemeConverterForVS" target="_blank"><b>CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme —</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/TypeScriptLandExtensions" target="_blank">
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/ThemeConverterForVS" target="_blank"><b>CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme</b></a></td><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/TypeScriptLandExtensions" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/TypeScriptLandExtensions?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/TypeScriptLandExtensions?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
@@ -5625,12 +5625,12 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/TypeScriptLandExtensions/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/TypeScriptLandExtensions/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/TypeScriptLandExtensions" target="_blank"><b>A monorepo of VS Code extensions from the TypeScript Team —</b></a></td></tr></table><table><tr>
+</a><br><a href="HTTPS://GitHub.Com/CodeEditorLand/TypeScriptLandExtensions" target="_blank"><b>A monorepo of VS Code extensions from the TypeScript Team</b></a></td></tr></table><table><tr>
 <td colspan="1"> <h3 align="center"> <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://PlayForm.LTD/Image/GitHub/NPM.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://PlayForm.LTD/Image/GitHub/NPM.svg">
 <img width="28" alt="" src="https://PlayForm.LTD/Image/GitHub/NPM.svg">
-</picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> NPM —
+</picture> </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> NPM
 </h3> </td>
 </tr><tr><td valign="top" colspan="1"><a href="HTTPS://GitHub.Com/CodeEditorLand/Common" target="_blank">
 <picture>
