@@ -567,7 +567,7 @@
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureCache/total?label=Download&color=white&labelColor=white&logoColor=black&logoWidth=0">
 <img src="https://img.shields.io/github/downloads/CodeEditorLand/LandAzureCache/total?label=Download&color=black&labelColor=black&logoColor=white&logoWidth=0" alt="Download" title="Download">
 </picture>
-</a><br><a href="https://GitHub.Com/CodeEditorLand/LandAzureCache" target="_blank"><b>Azure Cache for Redis is a fully managed, open source–compatible in-memory data store to power fast, scalable applications Use this extension to view data in your Azure Caches and monitor them at a glance</b></a></td><td valign="top" colspan="1"><a href="https://GitHub.Com/CodeEditorLand/LandAzureCli" target="_blank">
+</a><br><a href="https://GitHub.Com/CodeEditorLand/LandAzureCache" target="_blank"><b>Azure Cache for Redis is a fully managed, open source-compatible in-memory data store to power fast, scalable applications Use this extension to view data in your Azure Caches and monitor them at a glance</b></a></td><td valign="top" colspan="1"><a href="https://GitHub.Com/CodeEditorLand/LandAzureCli" target="_blank">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureCli?label=Update&color=black&labelColor=black&logoColor=white&logoWidth=0">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/last-commit/CodeEditorLand/LandAzureCli?label=Update&color=white&labelColor=white&logoColor=black&logoWidth=0">
