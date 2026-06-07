@@ -53,7 +53,7 @@
 			<br />
 			<a href="https://GitHub.Com/CodeEditorLand/Document" target="_blank">
 				<b>
-					Document 📄 Land 🏞️
+					Document&#x2001;📄&#x2001;Land&#x2001;🏞️
 				</b>
 			</a>
 		</td>
@@ -94,7 +94,7 @@
 			<br />
 			<a href="https://GitHub.Com/CodeEditorLand/Maintain" target="_blank">
 				<b>
-					Maintain 💪🏻 Land 🏞️
+					Maintain&#x2001;💪🏻&#x2001;Land&#x2001;🏞️
 				</b>
 			</a>
 		</td>
@@ -148,7 +148,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/ApplicationInsightsLand" target="_blank">
 								<b>
-									Visual Studio Code extension for Azure Application Insights
+									Visual&#x2001;Studio&#x2001;Code&#x2001;extension&#x2001;for&#x2001;Azure&#x2001;Application&#x2001;Insights
 								</b>
 							</a>
 						</td>
@@ -189,7 +189,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/AzureBoardsLand" target="_blank">
 								<b>
-									Azure Boards Extension for Visual Studio Code
+									Azure&#x2001;Boards&#x2001;Extension&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 								</b>
 							</a>
 						</td>
@@ -232,7 +232,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/AzureDatalakeToolsForLand" target="_blank">
 								<b>
-									Azure Datalake Tools For VSCode
+									Azure&#x2001;Datalake&#x2001;Tools&#x2001;For&#x2001;VSCode
 								</b>
 							</a>
 						</td>
@@ -273,7 +273,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/AzureIOTDeveloperKit" target="_blank">
 								<b>
-									A curated list of awesome Azure IoT Developer Kit projects and resources
+									A&#x2001;curated&#x2001;list&#x2001;of&#x2001;awesome&#x2001;Azure&#x2001;IoT&#x2001;Developer&#x2001;Kit&#x2001;projects&#x2001;and&#x2001;resources
 								</b>
 							</a>
 						</td>
@@ -316,7 +316,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/AzurePipelinesLand" target="_blank">
 								<b>
-									VS Code extension for working with Azure Pipelines YAML files
+									VS&#x2001;Code&#x2001;extension&#x2001;for&#x2001;working&#x2001;with&#x2001;Azure&#x2001;Pipelines&#x2001;YAML&#x2001;files
 								</b>
 							</a>
 						</td>
@@ -357,7 +357,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/AzureReposLand" target="_blank">
 								<b>
-									Azure Repos extension for VS Code
+									Azure&#x2001;Repos&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code
 								</b>
 							</a>
 						</td>
@@ -400,7 +400,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/AzureStreamAnalyticsInLand" target="_blank">
 								<b>
-									Azure Stream Analytics In VSCode
+									Azure&#x2001;Stream&#x2001;Analytics&#x2001;In&#x2001;VSCode
 								</b>
 							</a>
 						</td>
@@ -441,7 +441,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/Codetour" target="_blank">
 								<b>
-									VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor
+									VS&#x2001;Code&#x2001;extension&#x2001;that&#x2001;allows&#x2001;you&#x2001;to&#x2001;record&#x2001;and&#x2001;play&#x2001;back&#x2001;guided&#x2001;tours&#x2001;of&#x2001;codebases,&#x2001;directly&#x2001;within&#x2001;the&#x2001;editor
 								</b>
 							</a>
 						</td>
@@ -484,7 +484,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/ComposeLanguageService" target="_blank">
 								<b>
-									Language service for Docker Compose documents
+									Language&#x2001;service&#x2001;for&#x2001;Docker&#x2001;Compose&#x2001;documents
 								</b>
 							</a>
 						</td>
@@ -525,7 +525,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/DeoptexplorerLand" target="_blank">
 								<b>
-									A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8
+									A&#x2001;VS&#x2001;Code&#x2001;extension&#x2001;to&#x2001;visualize&#x2001;deoptimizations&#x2001;in&#x2001;your&#x2001;JavaScript&#x2001;and&#x2001;TypeScript&#x2001;code&#x2001;running&#x2001;in&#x2001;V8
 								</b>
 							</a>
 						</td>
@@ -568,7 +568,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/DevSkim" target="_blank">
 								<b>
-									DevSkim is a set of IDE plugins, language analyzers, and rules that provide security linting capabilities
+									DevSkim&#x2001;is&#x2001;a&#x2001;set&#x2001;of&#x2001;IDE&#x2001;plugins,&#x2001;language&#x2001;analyzers,&#x2001;and&#x2001;rules&#x2001;that&#x2001;provide&#x2001;security&#x2001;linting&#x2001;capabilities
 								</b>
 							</a>
 						</td>
@@ -609,7 +609,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/DevSkimLandPlugin" target="_blank">
 								<b>
-									DevSkim plugin for VS Code
+									DevSkim&#x2001;plugin&#x2001;for&#x2001;VS&#x2001;Code
 								</b>
 							</a>
 						</td>
@@ -652,8 +652,8 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/DSToolkitDevContainers" target="_blank">
 								<b>
-									A machine learning project template that makes it easy to work with multiple Docker based VSCode Dev Containers Easily transition projects to the cloud and production with automated code quality checks, pytest configuration, CI pipeline templates
-					AML cloud example
+									A&#x2001;machine&#x2001;learning&#x2001;project&#x2001;template&#x2001;that&#x2001;makes&#x2001;it&#x2001;easy&#x2001;to&#x2001;work&#x2001;with&#x2001;multiple&#x2001;Docker&#x2001;based&#x2001;VSCode&#x2001;Dev&#x2001;Containers&#x2001;Easily&#x2001;transition&#x2001;projects&#x2001;to&#x2001;the&#x2001;cloud&#x2001;and&#x2001;production&#x2001;with&#x2001;automated&#x2001;code&#x2001;quality&#x2001;checks,&#x2001;pytest&#x2001;configuration,&#x2001;CI&#x2001;pipeline&#x2001;templates
+					AML&#x2001;cloud&#x2001;example
 								</b>
 							</a>
 						</td>
@@ -694,7 +694,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/Editor" target="_blank">
 								<b>
-									Editor 🏞️
+									Editor&#x2001;🏞️
 								</b>
 							</a>
 						</td>
@@ -737,7 +737,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/Gnls" target="_blank">
 								<b>
-									GN language server and extensions
+									GN&#x2001;language&#x2001;server&#x2001;and&#x2001;extensions
 								</b>
 							</a>
 						</td>
@@ -778,7 +778,7 @@
 							<br />
 							<a href="https://GitHub.Com/CodeEditorLand/LandAnacondaExtensionPack" target="_blank">
 								<b>
-									Python extension pack for Anaconda
+									Python&#x2001;extension&#x2001;pack&#x2001;for&#x2001;Anaconda
 								</b>
 							</a>
 						</td>
@@ -858,7 +858,7 @@
 										<br />
 										<a href="https://GitHub.Com/CodeEditorLand/LandApimanagement" target="_blank">
 											<b>
-												VS Code extension for Azure API Management
+												VS&#x2001;Code&#x2001;extension&#x2001;for&#x2001;Azure&#x2001;API&#x2001;Management
 											</b>
 										</a>
 									</td>
@@ -900,7 +900,7 @@
 											<br />
 											<a href="https://GitHub.Com/CodeEditorLand/LandAppcenter" target="_blank">
 												<b>
-													App Center extension for VS Code
+													App&#x2001;Center&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code
 												</b>
 											</a>
 										</td>
@@ -941,7 +941,7 @@
 											<br />
 											<a href="https://GitHub.Com/CodeEditorLand/LandArduino" target="_blank">
 												<b>
-													Visual Studio Code extension for Arduino
+													Visual&#x2001;Studio&#x2001;Code&#x2001;extension&#x2001;for&#x2001;Arduino
 												</b>
 											</a>
 										</td>
@@ -984,7 +984,7 @@
 											<br />
 											<a href="https://GitHub.Com/CodeEditorLand/LandAsa" target="_blank">
 												<b>
-													Azure Stream Analytics In VSCode
+													Azure&#x2001;Stream&#x2001;Analytics&#x2001;In&#x2001;VSCode
 												</b>
 											</a>
 										</td>
@@ -1025,7 +1025,7 @@
 											<br />
 											<a href="https://GitHub.Com/CodeEditorLand/LandAtomKeybindings" target="_blank">
 												<b>
-													Port of Atom Keybindings for VS Code
+													Port&#x2001;of&#x2001;Atom&#x2001;Keybindings&#x2001;for&#x2001;VS&#x2001;Code
 												</b>
 											</a>
 										</td>
@@ -1068,7 +1068,7 @@
 											<br />
 											<a href="https://GitHub.Com/CodeEditorLand/LandAutopep8" target="_blank">
 												<b>
-													Formatting support for python using autopep8
+													Formatting&#x2001;support&#x2001;for&#x2001;python&#x2001;using&#x2001;autopep8
 												</b>
 											</a>
 										</td>
@@ -1109,7 +1109,7 @@
 											<br />
 											<a href="https://GitHub.Com/CodeEditorLand/LandAzureAccount" target="_blank">
 												<b>
-													Common Azure Login extension for VS Code
+													Common&#x2001;Azure&#x2001;Login&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code
 												</b>
 											</a>
 										</td>
@@ -1152,7 +1152,7 @@
 											<br />
 											<a href="https://GitHub.Com/CodeEditorLand/LandAzureAppService" target="_blank">
 												<b>
-													Azure App Service extension for VS Code
+													Azure&#x2001;App&#x2001;Service&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code
 												</b>
 											</a>
 										</td>
@@ -1193,7 +1193,7 @@
 											<br />
 											<a href="https://GitHub.Com/CodeEditorLand/LandAzureArmTools" target="_blank">
 												<b>
-													Azure Resource Manager Tools for Visual Studio Code
+													Azure&#x2001;Resource&#x2001;Manager&#x2001;Tools&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 												</b>
 											</a>
 										</td>
@@ -1273,7 +1273,7 @@
 														<br />
 														<a href="https://GitHub.Com/CodeEditorLand/LandAzureBlockchainEthereum" target="_blank">
 															<b>
-																Blockchain extension for VS Code
+																Blockchain&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code
 															</b>
 														</a>
 													</td>
@@ -1315,7 +1315,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureCache" target="_blank">
 																<b>
-																	Azure Cache for Redis is a fully managed, open source-compatible in-memory data store to power fast, scalable applications Use this extension to view data in your Azure Caches and monitor them at a glance
+																	Azure&#x2001;Cache&#x2001;for&#x2001;Redis&#x2001;is&#x2001;a&#x2001;fully&#x2001;managed,&#x2001;open&#x2001;source-compatible&#x2001;in-memory&#x2001;data&#x2001;store&#x2001;to&#x2001;power&#x2001;fast,&#x2001;scalable&#x2001;applications&#x2001;Use&#x2001;this&#x2001;extension&#x2001;to&#x2001;view&#x2001;data&#x2001;in&#x2001;your&#x2001;Azure&#x2001;Caches&#x2001;and&#x2001;monitor&#x2001;them&#x2001;at&#x2001;a&#x2001;glance
 																</b>
 															</a>
 														</td>
@@ -1356,7 +1356,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureCli" target="_blank">
 																<b>
-																	VS Code extension for the Azure CLI 20
+																	VS&#x2001;Code&#x2001;extension&#x2001;for&#x2001;the&#x2001;Azure&#x2001;CLI&#x2001;20
 																</b>
 															</a>
 														</td>
@@ -1399,7 +1399,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureCognitiveSearch" target="_blank">
 																<b>
-																	Azure Cognitive Search extension for VS Code (Preview)
+																	Azure&#x2001;Cognitive&#x2001;Search&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code&#x2001;(Preview)
 																</b>
 															</a>
 														</td>
@@ -1440,7 +1440,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureContainerapps" target="_blank">
 																<b>
-																	VS Code extension for Azure Container Apps
+																	VS&#x2001;Code&#x2001;extension&#x2001;for&#x2001;Azure&#x2001;Container&#x2001;Apps
 																</b>
 															</a>
 														</td>
@@ -1483,7 +1483,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureEventGrid" target="_blank">
 																<b>
-																	Azure Event Grid extension for VS Code
+																	Azure&#x2001;Event&#x2001;Grid&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code
 																</b>
 															</a>
 														</td>
@@ -1524,7 +1524,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureFunctions" target="_blank">
 																<b>
-																	Azure Functions extension for VS Code
+																	Azure&#x2001;Functions&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code
 																</b>
 															</a>
 														</td>
@@ -1567,7 +1567,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureFunctionsRemoteWebExtension" target="_blank">
 																<b>
-																	Extension side of Project Limelight
+																	Extension&#x2001;side&#x2001;of&#x2001;Project&#x2001;Limelight
 																</b>
 															</a>
 														</td>
@@ -1608,7 +1608,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureHealthcareAPIsTools" target="_blank">
 																<b>
-																	This VS Code extension contains a collection of tools to work with Azure Healthcare APIs
+																	This&#x2001;VS&#x2001;Code&#x2001;extension&#x2001;contains&#x2001;a&#x2001;collection&#x2001;of&#x2001;tools&#x2001;to&#x2001;work&#x2001;with&#x2001;Azure&#x2001;Healthcare&#x2001;APIs
 																</b>
 															</a>
 														</td>
@@ -1651,7 +1651,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureIOTEdge" target="_blank">
 																<b>
-																	Azure IoT Edge for Visual Studio Code
+																	Azure&#x2001;IoT&#x2001;Edge&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																</b>
 															</a>
 														</td>
@@ -1692,7 +1692,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureIOTToolkit" target="_blank">
 																<b>
-																	Azure IoT Hub extension for Visual Studio Code
+																	Azure&#x2001;IoT&#x2001;Hub&#x2001;extension&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																</b>
 															</a>
 														</td>
@@ -1735,7 +1735,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureIOTTools" target="_blank">
 																<b>
-																	The ultimate collection of extensions for working with Azure IoT in VS Code!
+																	The&#x2001;ultimate&#x2001;collection&#x2001;of&#x2001;extensions&#x2001;for&#x2001;working&#x2001;with&#x2001;Azure&#x2001;IoT&#x2001;in&#x2001;VS&#x2001;Code!
 																</b>
 															</a>
 														</td>
@@ -1776,7 +1776,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureLogicapps" target="_blank">
 																<b>
-																	Visual Studio Code extension for Azure Logic Apps (Consumption)
+																	Visual&#x2001;Studio&#x2001;Code&#x2001;extension&#x2001;for&#x2001;Azure&#x2001;Logic&#x2001;Apps&#x2001;(Consumption)
 																</b>
 															</a>
 														</td>
@@ -1819,7 +1819,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzurePack" target="_blank">
 																<b>
-																	A collection of extensions for working with Azure resources in VS Code
+																	A&#x2001;collection&#x2001;of&#x2001;extensions&#x2001;for&#x2001;working&#x2001;with&#x2001;Azure&#x2001;resources&#x2001;in&#x2001;VS&#x2001;Code
 																</b>
 															</a>
 														</td>
@@ -1860,7 +1860,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureResourceGroups" target="_blank">
 																<b>
-																	VS Code extension for managing Azure resources
+																	VS&#x2001;Code&#x2001;extension&#x2001;for&#x2001;managing&#x2001;Azure&#x2001;resources
 																</b>
 															</a>
 														</td>
@@ -1903,7 +1903,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureServerlessPack" target="_blank">
 																<b>
-																	Extension pack for building serverless apps on Azure
+																	Extension&#x2001;pack&#x2001;for&#x2001;building&#x2001;serverless&#x2001;apps&#x2001;on&#x2001;Azure
 																</b>
 															</a>
 														</td>
@@ -1944,7 +1944,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureSpringCloud" target="_blank">
 																<b>
-																	Azure Spring Cloud extension for Visual Studio Code
+																	Azure&#x2001;Spring&#x2001;Cloud&#x2001;extension&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																</b>
 															</a>
 														</td>
@@ -1987,7 +1987,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureStaticwebapps" target="_blank">
 																<b>
-																	Azure Static Web Apps extension for VS Code
+																	Azure&#x2001;Static&#x2001;Web&#x2001;Apps&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code
 																</b>
 															</a>
 														</td>
@@ -2028,7 +2028,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureStorage" target="_blank">
 																<b>
-																	Azure Storage extension for VS Code
+																	Azure&#x2001;Storage&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code
 																</b>
 															</a>
 														</td>
@@ -2071,7 +2071,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureTools" target="_blank">
 																<b>
-																	Common packages for building Azure extensions for VS Code
+																	Common&#x2001;packages&#x2001;for&#x2001;building&#x2001;Azure&#x2001;extensions&#x2001;for&#x2001;VS&#x2001;Code
 																</b>
 															</a>
 														</td>
@@ -2112,7 +2112,7 @@
 															<br />
 															<a href="https://GitHub.Com/CodeEditorLand/LandAzureVirtualMachines" target="_blank">
 																<b>
-																	Azure Virtual Machines extension for Visual Studio Code
+																	Azure&#x2001;Virtual&#x2001;Machines&#x2001;extension&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																</b>
 															</a>
 														</td>
@@ -2192,7 +2192,7 @@
 																		<br />
 																		<a href="https://GitHub.Com/CodeEditorLand/LandBisect" target="_blank">
 																			<b>
-																				Allows to bisect released VSCode web and desktop insider builds for issues similar to what git bisect does
+																				Allows&#x2001;to&#x2001;bisect&#x2001;released&#x2001;VSCode&#x2001;web&#x2001;and&#x2001;desktop&#x2001;insider&#x2001;builds&#x2001;for&#x2001;issues&#x2001;similar&#x2001;to&#x2001;what&#x2001;git&#x2001;bisect&#x2001;does
 																			</b>
 																		</a>
 																	</td>
@@ -2234,7 +2234,7 @@
 																			<br />
 																			<a href="https://GitHub.Com/CodeEditorLand/LandBlackFormatter" target="_blank">
 																				<b>
-																					Formatting support for Python using the Black formatter
+																					Formatting&#x2001;support&#x2001;for&#x2001;Python&#x2001;using&#x2001;the&#x2001;Black&#x2001;formatter
 																				</b>
 																			</a>
 																		</td>
@@ -2275,7 +2275,7 @@
 																			<br />
 																			<a href="https://GitHub.Com/CodeEditorLand/LandBracketsKeybindings" target="_blank">
 																				<b>
-																					Brackets Keymap for Visual Studio Code
+																					Brackets&#x2001;Keymap&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																				</b>
 																			</a>
 																		</td>
@@ -2318,7 +2318,7 @@
 																			<br />
 																			<a href="https://GitHub.Com/CodeEditorLand/LandBracketsPack" target="_blank">
 																				<b>
-																					Popular Brackets features as extensions for VS Code
+																					Popular&#x2001;Brackets&#x2001;features&#x2001;as&#x2001;extensions&#x2001;for&#x2001;VS&#x2001;Code
 																				</b>
 																			</a>
 																		</td>
@@ -2359,7 +2359,7 @@
 																			<br />
 																			<a href="https://GitHub.Com/CodeEditorLand/LandCdp" target="_blank">
 																				<b>
-																					Nodejs libraries for interfacing with the Chrome DevTools Protocol
+																					Nodejs&#x2001;libraries&#x2001;for&#x2001;interfacing&#x2001;with&#x2001;the&#x2001;Chrome&#x2001;DevTools&#x2001;Protocol
 																				</b>
 																			</a>
 																		</td>
@@ -2402,7 +2402,7 @@
 																			<br />
 																			<a href="https://GitHub.Com/CodeEditorLand/LandCdpProxy" target="_blank">
 																				<b>
-																					Sample Chrome Debug Protocol proxy used to extend vscode-js-debug
+																					Sample&#x2001;Chrome&#x2001;Debug&#x2001;Protocol&#x2001;proxy&#x2001;used&#x2001;to&#x2001;extend&#x2001;vscode-js-debug
 																				</b>
 																			</a>
 																		</td>
@@ -2443,7 +2443,7 @@
 																			<br />
 																			<a href="https://GitHub.Com/CodeEditorLand/LandChromeDebug" target="_blank">
 																				<b>
-																					Debug your JavaScript code running in Google Chrome from VS Code
+																					Debug&#x2001;your&#x2001;JavaScript&#x2001;code&#x2001;running&#x2001;in&#x2001;Google&#x2001;Chrome&#x2001;from&#x2001;VS&#x2001;Code
 																				</b>
 																			</a>
 																		</td>
@@ -2598,7 +2598,7 @@
 																													<br />
 																													<a href="https://GitHub.Com/CodeEditorLand/LandCodicons" target="_blank">
 																														<b>
-																															The icon font for Visual Studio Code
+																															The&#x2001;icon&#x2001;font&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																														</b>
 																													</a>
 																												</td>
@@ -2640,7 +2640,7 @@
 																														<br />
 																														<a href="https://GitHub.Com/CodeEditorLand/LandComment" target="_blank">
 																															<b>
-																																Adds simple jsdoc comments for the parameters of a selected function signature
+																																Adds&#x2001;simple&#x2001;jsdoc&#x2001;comments&#x2001;for&#x2001;the&#x2001;parameters&#x2001;of&#x2001;a&#x2001;selected&#x2001;function&#x2001;signature
 																															</b>
 																														</a>
 																													</td>
@@ -2681,7 +2681,7 @@
 																														<br />
 																														<a href="https://GitHub.Com/CodeEditorLand/LandCopilotRelease" target="_blank">
 																															<b>
-																																Feedback on GitHub Copilot Chat UX in Visual Studio Code
+																																Feedback&#x2001;on&#x2001;GitHub&#x2001;Copilot&#x2001;Chat&#x2001;UX&#x2001;in&#x2001;Visual&#x2001;Studio&#x2001;Code
 																															</b>
 																														</a>
 																													</td>
@@ -2761,7 +2761,7 @@
 																																	<br />
 																																	<a href="https://GitHub.Com/CodeEditorLand/LandCosmosDB" target="_blank">
 																																		<b>
-																																			Azure Databases extension for VS Code
+																																			Azure&#x2001;Databases&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code
 																																		</b>
 																																	</a>
 																																</td>
@@ -2803,7 +2803,7 @@
 																																		<br />
 																																		<a href="https://GitHub.Com/CodeEditorLand/LandCosmosDBGraph" target="_blank">
 																																			<b>
-																																				VS Code extension for Cosmos DB Graph databases
+																																				VS&#x2001;Code&#x2001;extension&#x2001;for&#x2001;Cosmos&#x2001;DB&#x2001;Graph&#x2001;databases
 																																			</b>
 																																		</a>
 																																	</td>
@@ -2919,7 +2919,7 @@
 																																									<br />
 																																									<a href="https://GitHub.Com/CodeEditorLand/LandCPPToolsApi" target="_blank">
 																																										<b>
-																																											Public API for the C⁄C++ Extension for VS Code
+																																											Public&#x2001;API&#x2001;for&#x2001;the&#x2001;C⁄C++&#x2001;Extension&#x2001;for&#x2001;VS&#x2001;Code
 																																										</b>
 																																									</a>
 																																								</td>
@@ -2961,7 +2961,7 @@
 																																										<br />
 																																										<a href="https://GitHub.Com/CodeEditorLand/LandCSS" target="_blank">
 																																											<b>
-																																												CSS Textmate grammar for syntax highlighting
+																																												CSS&#x2001;Textmate&#x2001;grammar&#x2001;for&#x2001;syntax&#x2001;highlighting
 																																											</b>
 																																										</a>
 																																									</td>
@@ -3040,7 +3040,7 @@
 																																														<br />
 																																														<a href="https://GitHub.Com/CodeEditorLand/LandCustomData" target="_blank">
 																																															<b>
-																																																Documentation and sample for using VS Code custom data format
+																																																Documentation&#x2001;and&#x2001;sample&#x2001;for&#x2001;using&#x2001;VS&#x2001;Code&#x2001;custom&#x2001;data&#x2001;format
 																																															</b>
 																																														</a>
 																																													</td>
@@ -3156,7 +3156,7 @@
 																																																					<br />
 																																																					<a href="https://GitHub.Com/CodeEditorLand/LandDebugAdapterNode" target="_blank">
 																																																						<b>
-																																																							Debug adapter protocol and implementation for VS Code
+																																																							Debug&#x2001;adapter&#x2001;protocol&#x2001;and&#x2001;implementation&#x2001;for&#x2001;VS&#x2001;Code
 																																																						</b>
 																																																					</a>
 																																																				</td>
@@ -3198,7 +3198,7 @@
 																																																						<br />
 																																																						<a href="https://GitHub.Com/CodeEditorLand/LandDeployAzure" target="_blank">
 																																																							<b>
-																																																								VS code extension: Deploy To Azure, which helps set up CI⁄CD for deployment to Azure Resources
+																																																								VS&#x2001;code&#x2001;extension:&#x2001;Deploy&#x2001;To&#x2001;Azure,&#x2001;which&#x2001;helps&#x2001;set&#x2001;up&#x2001;CI⁄CD&#x2001;for&#x2001;deployment&#x2001;to&#x2001;Azure&#x2001;Resources
 																																																							</b>
 																																																						</a>
 																																																					</td>
@@ -3277,7 +3277,7 @@
 																																																										<br />
 																																																										<a href="https://GitHub.Com/CodeEditorLand/LandDevContainers" target="_blank">
 																																																											<b>
-																																																												NOTE: Most of the contents of this repository have been migrated to the new devcontainers GitHub org (https:⁄⁄githubcom⁄devcontainers) See https:⁄⁄githubcom⁄devcontainers⁄template-starter and https:⁄⁄githubcom⁄devcontainers⁄feature-starter for information on creating your own!
+																																																												NOTE:&#x2001;Most&#x2001;of&#x2001;the&#x2001;contents&#x2001;of&#x2001;this&#x2001;repository&#x2001;have&#x2001;been&#x2001;migrated&#x2001;to&#x2001;the&#x2001;new&#x2001;devcontainers&#x2001;GitHub&#x2001;org&#x2001;(https:⁄⁄githubcom⁄devcontainers)&#x2001;See&#x2001;https:⁄⁄githubcom⁄devcontainers⁄template-starter&#x2001;and&#x2001;https:⁄⁄githubcom⁄devcontainers⁄feature-starter&#x2001;for&#x2001;information&#x2001;on&#x2001;creating&#x2001;your&#x2001;own!
 																																																											</b>
 																																																										</a>
 																																																									</td>
@@ -3318,7 +3318,7 @@
 																																																										<br />
 																																																										<a href="https://GitHub.Com/CodeEditorLand/LandDiagnosticTools" target="_blank">
 																																																											<b>
-																																																												A collection of tools designed to aid in diagnosing issues in VS Code
+																																																												A&#x2001;collection&#x2001;of&#x2001;tools&#x2001;designed&#x2001;to&#x2001;aid&#x2001;in&#x2001;diagnosing&#x2001;issues&#x2001;in&#x2001;VS&#x2001;Code
 																																																											</b>
 																																																										</a>
 																																																									</td>
@@ -3361,7 +3361,7 @@
 																																																										<br />
 																																																										<a href="https://GitHub.Com/CodeEditorLand/LandDiscussions" target="_blank">
 																																																											<b>
-																																																												The official place to discuss all things VS Code!
+																																																												The&#x2001;official&#x2001;place&#x2001;to&#x2001;discuss&#x2001;all&#x2001;things&#x2001;VS&#x2001;Code!
 																																																											</b>
 																																																										</a>
 																																																									</td>
@@ -3402,7 +3402,7 @@
 																																																										<br />
 																																																										<a href="https://GitHub.Com/CodeEditorLand/LandDocker" target="_blank">
 																																																											<b>
-																																																												Docker Extension for Visual Studio Code
+																																																												Docker&#x2001;Extension&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																											</b>
 																																																										</a>
 																																																									</td>
@@ -3445,7 +3445,7 @@
 																																																										<br />
 																																																										<a href="https://GitHub.Com/CodeEditorLand/LandDockerExtensibility" target="_blank">
 																																																											<b>
-																																																												Docker for Visual Studio Code: Extensibility Model
+																																																												Docker&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code:&#x2001;Extensibility&#x2001;Model
 																																																											</b>
 																																																										</a>
 																																																									</td>
@@ -3486,7 +3486,7 @@
 																																																										<br />
 																																																										<a href="https://GitHub.Com/CodeEditorLand/LandDocs" target="_blank">
 																																																											<b>
-																																																												Public documentation for Visual Studio Code
+																																																												Public&#x2001;documentation&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																											</b>
 																																																										</a>
 																																																									</td>
@@ -3566,7 +3566,7 @@
 																																																													<br />
 																																																													<a href="https://GitHub.Com/CodeEditorLand/LandDocsAuthoring" target="_blank">
 																																																														<b>
-																																																															VSCode extension that provides markdown authoring assistance to docsmicrosoftcom contributors
+																																																															VSCode&#x2001;extension&#x2001;that&#x2001;provides&#x2001;markdown&#x2001;authoring&#x2001;assistance&#x2001;to&#x2001;docsmicrosoftcom&#x2001;contributors
 																																																														</b>
 																																																													</a>
 																																																												</td>
@@ -3608,7 +3608,7 @@
 																																																														<br />
 																																																														<a href="https://GitHub.Com/CodeEditorLand/LandDotNETTools" target="_blank">
 																																																															<b>
-																																																																This is a feedback repository to capture issues logged for the C# Dev Kit and related extensions from Visual Studio Code
+																																																																This&#x2001;is&#x2001;a&#x2001;feedback&#x2001;repository&#x2001;to&#x2001;capture&#x2001;issues&#x2001;logged&#x2001;for&#x2001;the&#x2001;C#&#x2001;Dev&#x2001;Kit&#x2001;and&#x2001;related&#x2001;extensions&#x2001;from&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																															</b>
 																																																														</a>
 																																																													</td>
@@ -3649,7 +3649,7 @@
 																																																														<br />
 																																																														<a href="https://GitHub.Com/CodeEditorLand/LandDtdl" target="_blank">
 																																																															<b>
-																																																																Digital Twins Definition Language extension for VSCode
+																																																																Digital&#x2001;Twins&#x2001;Definition&#x2001;Language&#x2001;extension&#x2001;for&#x2001;VSCode
 																																																															</b>
 																																																														</a>
 																																																													</td>
@@ -3692,7 +3692,7 @@
 																																																														<br />
 																																																														<a href="https://GitHub.Com/CodeEditorLand/LandDts" target="_blank">
 																																																															<b>
-																																																																CLI utility for downloading vscodedts and vscodeproposeddts
+																																																																CLI&#x2001;utility&#x2001;for&#x2001;downloading&#x2001;vscodedts&#x2001;and&#x2001;vscodeproposeddts
 																																																															</b>
 																																																														</a>
 																																																													</td>
@@ -3733,7 +3733,7 @@
 																																																														<br />
 																																																														<a href="https://GitHub.Com/CodeEditorLand/LandDwarfDebugging" target="_blank">
 																																																															<b>
-																																																																Enables enhanced debugging of WebAssembly in VS Code
+																																																																Enables&#x2001;enhanced&#x2001;debugging&#x2001;of&#x2001;WebAssembly&#x2001;in&#x2001;VS&#x2001;Code
 																																																															</b>
 																																																														</a>
 																																																													</td>
@@ -3851,7 +3851,7 @@
 																																																																					<br />
 																																																																					<a href="https://GitHub.Com/CodeEditorLand/LandEdgeDebug2" target="_blank">
 																																																																						<b>
-																																																																							This is a VS Code extension which helps you debug your JavaScript Code inside the Edge browser
+																																																																							This&#x2001;is&#x2001;a&#x2001;VS&#x2001;Code&#x2001;extension&#x2001;which&#x2001;helps&#x2001;you&#x2001;debug&#x2001;your&#x2001;JavaScript&#x2001;Code&#x2001;inside&#x2001;the&#x2001;Edge&#x2001;browser
 																																																																						</b>
 																																																																					</a>
 																																																																				</td>
@@ -3930,7 +3930,7 @@
 																																																																									<br />
 																																																																									<a href="https://GitHub.Com/CodeEditorLand/LandEdgeDevToolsNetwork" target="_blank">
 																																																																										<b>
-																																																																											This extension is deprecated Its functionality is now part of the Microsoft Edge Developer Tools for Visual Studio Code extension
+																																																																											This&#x2001;extension&#x2001;is&#x2001;deprecated&#x2001;Its&#x2001;functionality&#x2001;is&#x2001;now&#x2001;part&#x2001;of&#x2001;the&#x2001;Microsoft&#x2001;Edge&#x2001;Developer&#x2001;Tools&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code&#x2001;extension
 																																																																										</b>
 																																																																									</a>
 																																																																								</td>
@@ -3971,7 +3971,7 @@
 																																																																									<br />
 																																																																									<a href="https://GitHub.Com/CodeEditorLand/LandEditorConfig" target="_blank">
 																																																																										<b>
-																																																																											[DEPRECATED] editorconfig extension for Visual Studio Code
+																																																																											[DEPRECATED]&#x2001;editorconfig&#x2001;extension&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																										</b>
 																																																																									</a>
 																																																																								</td>
@@ -4014,8 +4014,8 @@
 																																																																									<br />
 																																																																									<a href="https://GitHub.Com/CodeEditorLand/LandEmbeddedTools" target="_blank">
 																																																																										<b>
-																																																																											Official issue tracking repository for Microsoft
-					s Embedded Tools VS Code extension
+																																																																											Official&#x2001;issue&#x2001;tracking&#x2001;repository&#x2001;for&#x2001;Microsoft
+					s&#x2001;Embedded&#x2001;Tools&#x2001;VS&#x2001;Code&#x2001;extension
 																																																																										</b>
 																																																																									</a>
 																																																																								</td>
@@ -4056,7 +4056,7 @@
 																																																																									<br />
 																																																																									<a href="https://GitHub.Com/CodeEditorLand/LandEmmetHelper" target="_blank">
 																																																																										<b>
-																																																																											A helper module to use emmet modules with Visual Studio Code
+																																																																											A&#x2001;helper&#x2001;module&#x2001;to&#x2001;use&#x2001;emmet&#x2001;modules&#x2001;with&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																										</b>
 																																																																									</a>
 																																																																								</td>
@@ -4099,7 +4099,7 @@
 																																																																									<br />
 																																																																									<a href="https://GitHub.Com/CodeEditorLand/LandEmmetLegacy" target="_blank">
 																																																																										<b>
-																																																																											Emmet features via extension for Visual Studio Code using the new API
+																																																																											Emmet&#x2001;features&#x2001;via&#x2001;extension&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code&#x2001;using&#x2001;the&#x2001;new&#x2001;API
 																																																																										</b>
 																																																																									</a>
 																																																																								</td>
@@ -4140,7 +4140,7 @@
 																																																																									<br />
 																																																																									<a href="https://GitHub.Com/CodeEditorLand/LandESLint" target="_blank">
 																																																																										<b>
-																																																																											VSCode extension to integrate eslint into VSCode
+																																																																											VSCode&#x2001;extension&#x2001;to&#x2001;integrate&#x2001;eslint&#x2001;into&#x2001;VSCode
 																																																																										</b>
 																																																																									</a>
 																																																																								</td>
@@ -4183,7 +4183,7 @@
 																																																																									<br />
 																																																																									<a href="https://GitHub.Com/CodeEditorLand/LandExplorerCommand" target="_blank">
 																																																																										<b>
-																																																																											Shell extension to integrate with Win11 Context menu via sparse pkg
+																																																																											Shell&#x2001;extension&#x2001;to&#x2001;integrate&#x2001;with&#x2001;Win11&#x2001;Context&#x2001;menu&#x2001;via&#x2001;sparse&#x2001;pkg
 																																																																										</b>
 																																																																									</a>
 																																																																								</td>
@@ -4224,7 +4224,7 @@
 																																																																									<br />
 																																																																									<a href="https://GitHub.Com/CodeEditorLand/LandExtensionLand" target="_blank">
 																																																																										<b>
-																																																																											The vscode NPM module Deprecated in favor of @types⁄vscode and vscode-test
+																																																																											The&#x2001;vscode&#x2001;NPM&#x2001;module&#x2001;Deprecated&#x2001;in&#x2001;favor&#x2001;of&#x2001;@types⁄vscode&#x2001;and&#x2001;vscode-test
 																																																																										</b>
 																																																																									</a>
 																																																																								</td>
@@ -4267,7 +4267,7 @@
 																																																																									<br />
 																																																																									<a href="https://GitHub.Com/CodeEditorLand/LandExtensionRecommender" target="_blank">
 																																																																										<b>
-																																																																											(Early preview) Recommender System for VS Code Extension
+																																																																											(Early&#x2001;preview)&#x2001;Recommender&#x2001;System&#x2001;for&#x2001;VS&#x2001;Code&#x2001;Extension
 																																																																										</b>
 																																																																									</a>
 																																																																								</td>
@@ -4308,7 +4308,7 @@
 																																																																									<br />
 																																																																									<a href="https://GitHub.Com/CodeEditorLand/LandExtensionSamples" target="_blank">
 																																																																										<b>
-																																																																											Sample code illustrating the VS Code extension API
+																																																																											Sample&#x2001;code&#x2001;illustrating&#x2001;the&#x2001;VS&#x2001;Code&#x2001;extension&#x2001;API
 																																																																										</b>
 																																																																									</a>
 																																																																								</td>
@@ -4388,7 +4388,7 @@
 																																																																												<br />
 																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandExtensionTestRunner" target="_blank">
 																																																																													<b>
-																																																																														Runs tests in the UI for VS Code extensions
+																																																																														Runs&#x2001;tests&#x2001;in&#x2001;the&#x2001;UI&#x2001;for&#x2001;VS&#x2001;Code&#x2001;extensions
 																																																																													</b>
 																																																																												</a>
 																																																																											</td>
@@ -4467,7 +4467,7 @@
 																																																																																<br />
 																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandFigmaToolkit" target="_blank">
 																																																																																	<b>
-																																																																																		A Figma design toolkit for Visual Studio Code
+																																																																																		A&#x2001;Figma&#x2001;design&#x2001;toolkit&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																																	</b>
 																																																																																</a>
 																																																																															</td>
@@ -4509,7 +4509,7 @@
 																																																																																	<br />
 																																																																																	<a href="https://GitHub.Com/CodeEditorLand/LandFileDownloader" target="_blank">
 																																																																																		<b>
-																																																																																			Exposes an API that allows other VS Code extensions to download files
+																																																																																			Exposes&#x2001;an&#x2001;API&#x2001;that&#x2001;allows&#x2001;other&#x2001;VS&#x2001;Code&#x2001;extensions&#x2001;to&#x2001;download&#x2001;files
 																																																																																		</b>
 																																																																																	</a>
 																																																																																</td>
@@ -4550,7 +4550,7 @@
 																																																																																	<br />
 																																																																																	<a href="https://GitHub.Com/CodeEditorLand/LandFileDownloaderApi" target="_blank">
 																																																																																		<b>
-																																																																																			NPM package providing the API library for the File Downloader Visual Studio Code extension
+																																																																																			NPM&#x2001;package&#x2001;providing&#x2001;the&#x2001;API&#x2001;library&#x2001;for&#x2001;the&#x2001;File&#x2001;Downloader&#x2001;Visual&#x2001;Studio&#x2001;Code&#x2001;extension
 																																																																																		</b>
 																																																																																	</a>
 																																																																																</td>
@@ -4593,7 +4593,7 @@
 																																																																																	<br />
 																																																																																	<a href="https://GitHub.Com/CodeEditorLand/LandFilewatcherWindows" target="_blank">
 																																																																																		<b>
-																																																																																			The file watcher used for VS Code on Windows
+																																																																																			The&#x2001;file&#x2001;watcher&#x2001;used&#x2001;for&#x2001;VS&#x2001;Code&#x2001;on&#x2001;Windows
 																																																																																		</b>
 																																																																																	</a>
 																																																																																</td>
@@ -4784,7 +4784,7 @@
 																																																																																															<br />
 																																																																																															<a href="https://GitHub.Com/CodeEditorLand/LandGitHubIssueNotebooks" target="_blank">
 																																																																																																<b>
-																																																																																																	GitHub Issues Notebooks for VS Code
+																																																																																																	GitHub&#x2001;Issues&#x2001;Notebooks&#x2001;for&#x2001;VS&#x2001;Code
 																																																																																																</b>
 																																																																																															</a>
 																																																																																														</td>
@@ -4863,7 +4863,7 @@
 																																																																																																			<br />
 																																																																																																			<a href="https://GitHub.Com/CodeEditorLand/LandGitHubTriageActions" target="_blank">
 																																																																																																				<b>
-																																																																																																					Github Actions for helping VS Code manage our issues
+																																																																																																					Github&#x2001;Actions&#x2001;for&#x2001;helping&#x2001;VS&#x2001;Code&#x2001;manage&#x2001;our&#x2001;issues
 																																																																																																				</b>
 																																																																																																			</a>
 																																																																																																		</td>
@@ -4905,7 +4905,7 @@
 																																																																																																				<br />
 																																																																																																				<a href="https://GitHub.Com/CodeEditorLand/LandGitHubTriageExtension" target="_blank">
 																																																																																																					<b>
-																																																																																																						A chromium extension to help with triaging VS Code GitHub issues
+																																																																																																						A&#x2001;chromium&#x2001;extension&#x2001;to&#x2001;help&#x2001;with&#x2001;triaging&#x2001;VS&#x2001;Code&#x2001;GitHub&#x2001;issues
 																																																																																																					</b>
 																																																																																																				</a>
 																																																																																																			</td>
@@ -4946,7 +4946,7 @@
 																																																																																																				<br />
 																																																																																																				<a href="https://GitHub.Com/CodeEditorLand/LandGo" target="_blank">
 																																																																																																					<b>
-																																																																																																						An extension for VS Code which provides support for the Go language We have moved to https:⁄⁄githubcom⁄golang⁄vscode-go
+																																																																																																						An&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code&#x2001;which&#x2001;provides&#x2001;support&#x2001;for&#x2001;the&#x2001;Go&#x2001;language&#x2001;We&#x2001;have&#x2001;moved&#x2001;to&#x2001;https:⁄⁄githubcom⁄golang⁄vscode-go
 																																																																																																					</b>
 																																																																																																				</a>
 																																																																																																			</td>
@@ -5064,7 +5064,7 @@
 																																																																																																											<br />
 																																																																																																											<a href="https://GitHub.Com/CodeEditorLand/LandGulpElectron" target="_blank">
 																																																																																																												<b>
-																																																																																																													Gulp plugin for packaging Electron into VS Code
+																																																																																																													Gulp&#x2001;plugin&#x2001;for&#x2001;packaging&#x2001;Electron&#x2001;into&#x2001;VS&#x2001;Code
 																																																																																																												</b>
 																																																																																																											</a>
 																																																																																																										</td>
@@ -5105,7 +5105,7 @@
 																																																																																																											<br />
 																																																																																																											<a href="https://GitHub.Com/CodeEditorLand/LandHexEditor" target="_blank">
 																																																																																																												<b>
-																																																																																																													VS Code Hex Editor
+																																																																																																													VS&#x2001;Code&#x2001;Hex&#x2001;Editor
 																																																																																																												</b>
 																																																																																																											</a>
 																																																																																																										</td>
@@ -5185,7 +5185,7 @@
 																																																																																																														<br />
 																																																																																																														<a href="https://GitHub.Com/CodeEditorLand/LandHTMLLanguageService" target="_blank">
 																																																																																																															<b>
-																																																																																																																Language services for HTML
+																																																																																																																Language&#x2001;services&#x2001;for&#x2001;HTML
 																																																																																																															</b>
 																																																																																																														</a>
 																																																																																																													</td>
@@ -5302,7 +5302,7 @@
 																																																																																																																						<br />
 																																																																																																																						<a href="https://GitHub.Com/CodeEditorLand/LandIcons" target="_blank">
 																																																																																																																							<b>
-																																																																																																																								Icons for Visual Studio Code
+																																																																																																																								Icons&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																																																																							</b>
 																																																																																																																						</a>
 																																																																																																																					</td>
@@ -5343,7 +5343,7 @@
 																																																																																																																						<br />
 																																																																																																																						<a href="https://GitHub.Com/CodeEditorLand/LandIconvLiteUMD" target="_blank">
 																																																																																																																							<b>
-																																																																																																																								A UMD version of iconv-lite to be used in VSCode
+																																																																																																																								A&#x2001;UMD&#x2001;version&#x2001;of&#x2001;iconv-lite&#x2001;to&#x2001;be&#x2001;used&#x2001;in&#x2001;VSCode
 																																																																																																																							</b>
 																																																																																																																						</a>
 																																																																																																																					</td>
@@ -5386,7 +5386,7 @@
 																																																																																																																						<br />
 																																																																																																																						<a href="https://GitHub.Com/CodeEditorLand/LandIosWebDebug" target="_blank">
 																																																																																																																							<b>
-																																																																																																																								Debug your JavaScript code running in Safari on iOS devices from VS Code
+																																																																																																																								Debug&#x2001;your&#x2001;JavaScript&#x2001;code&#x2001;running&#x2001;in&#x2001;Safari&#x2001;on&#x2001;iOS&#x2001;devices&#x2001;from&#x2001;VS&#x2001;Code
 																																																																																																																							</b>
 																																																																																																																						</a>
 																																																																																																																					</td>
@@ -5465,7 +5465,7 @@
 																																																																																																																										<br />
 																																																																																																																										<a href="https://GitHub.Com/CodeEditorLand/LandIsort" target="_blank">
 																																																																																																																											<b>
-																																																																																																																												Import sorting for python using the isort library
+																																																																																																																												Import&#x2001;sorting&#x2001;for&#x2001;python&#x2001;using&#x2001;the&#x2001;isort&#x2001;library
 																																																																																																																											</b>
 																																																																																																																										</a>
 																																																																																																																									</td>
@@ -5506,7 +5506,7 @@
 																																																																																																																										<br />
 																																																																																																																										<a href="https://GitHub.Com/CodeEditorLand/LandJavaDebug" target="_blank">
 																																																																																																																											<b>
-																																																																																																																												Java Debugger for Visual Studio Code
+																																																																																																																												Java&#x2001;Debugger&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																																																																											</b>
 																																																																																																																										</a>
 																																																																																																																									</td>
@@ -5624,7 +5624,7 @@
 																																																																																																																																	<br />
 																																																																																																																																	<a href="https://GitHub.Com/CodeEditorLand/LandJavaPack" target="_blank">
 																																																																																																																																		<b>
-																																																																																																																																			VS Code extensions for Java developers
+																																																																																																																																			VS&#x2001;Code&#x2001;extensions&#x2001;for&#x2001;Java&#x2001;developers
 																																																																																																																																		</b>
 																																																																																																																																	</a>
 																																																																																																																																</td>
@@ -5665,7 +5665,7 @@
 																																																																																																																																	<br />
 																																																																																																																																	<a href="https://GitHub.Com/CodeEditorLand/LandJavaTest" target="_blank">
 																																																																																																																																		<b>
-																																																																																																																																			Run and debug Java test cases in Visual Studio Code
+																																																																																																																																			Run&#x2001;and&#x2001;debug&#x2001;Java&#x2001;test&#x2001;cases&#x2001;in&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																																																																																		</b>
 																																																																																																																																	</a>
 																																																																																																																																</td>
@@ -5783,7 +5783,7 @@
 																																																																																																																																								<br />
 																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandJSDebug" target="_blank">
 																																																																																																																																									<b>
-																																																																																																																																										The VS Code JavaScript debugger
+																																																																																																																																										The&#x2001;VS&#x2001;Code&#x2001;JavaScript&#x2001;debugger
 																																																																																																																																									</b>
 																																																																																																																																								</a>
 																																																																																																																																							</td>
@@ -5824,8 +5824,8 @@
 																																																																																																																																								<br />
 																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandJSDebugBrowsers" target="_blank">
 																																																																																																																																									<b>
-																																																																																																																																										Browser launch and discovery logic used in VS Code
-					s JavaScript Debugger
+																																																																																																																																										Browser&#x2001;launch&#x2001;and&#x2001;discovery&#x2001;logic&#x2001;used&#x2001;in&#x2001;VS&#x2001;Code
+					s&#x2001;JavaScript&#x2001;Debugger
 																																																																																																																																									</b>
 																																																																																																																																								</a>
 																																																																																																																																							</td>
@@ -5868,7 +5868,7 @@
 																																																																																																																																								<br />
 																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandJSDebugCompanion" target="_blank">
 																																																																																																																																									<b>
-																																																																																																																																										Companion extension to js-debug that provides capability for remote debugging
+																																																																																																																																										Companion&#x2001;extension&#x2001;to&#x2001;js-debug&#x2001;that&#x2001;provides&#x2001;capability&#x2001;for&#x2001;remote&#x2001;debugging
 																																																																																																																																									</b>
 																																																																																																																																								</a>
 																																																																																																																																							</td>
@@ -5909,7 +5909,7 @@
 																																																																																																																																								<br />
 																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandJSHint" target="_blank">
 																																																																																																																																									<b>
-																																																																																																																																										VSCode extension to integrate jshint into VSCode
+																																																																																																																																										VSCode&#x2001;extension&#x2001;to&#x2001;integrate&#x2001;jshint&#x2001;into&#x2001;VSCode
 																																																																																																																																									</b>
 																																																																																																																																								</a>
 																																																																																																																																							</td>
@@ -5989,7 +5989,7 @@
 																																																																																																																																											<br />
 																																																																																																																																											<a href="https://GitHub.Com/CodeEditorLand/LandJSonLanguageService" target="_blank">
 																																																																																																																																												<b>
-																																																																																																																																													JSON language service extracted from VSCode to be reused, eg in the Monaco editor
+																																																																																																																																													JSON&#x2001;language&#x2001;service&#x2001;extracted&#x2001;from&#x2001;VSCode&#x2001;to&#x2001;be&#x2001;reused,&#x2001;eg&#x2001;in&#x2001;the&#x2001;Monaco&#x2001;editor
 																																																																																																																																												</b>
 																																																																																																																																											</a>
 																																																																																																																																										</td>
@@ -6068,7 +6068,7 @@
 																																																																																																																																															<br />
 																																																																																																																																															<a href="https://GitHub.Com/CodeEditorLand/LandJupyter" target="_blank">
 																																																																																																																																																<b>
-																																																																																																																																																	VS Code Jupyter extension
+																																																																																																																																																	VS&#x2001;Code&#x2001;Jupyter&#x2001;extension
 																																																																																																																																																</b>
 																																																																																																																																															</a>
 																																																																																																																																														</td>
@@ -6147,7 +6147,7 @@
 																																																																																																																																																			<br />
 																																																																																																																																																			<a href="https://GitHub.Com/CodeEditorLand/LandJupyterHub" target="_blank">
 																																																																																																																																																				<b>
-																																																																																																																																																					Jupyter Hub Support in VS Code
+																																																																																																																																																					Jupyter&#x2001;Hub&#x2001;Support&#x2001;in&#x2001;VS&#x2001;Code
 																																																																																																																																																				</b>
 																																																																																																																																																			</a>
 																																																																																																																																																		</td>
@@ -6189,7 +6189,7 @@
 																																																																																																																																																				<br />
 																																																																																																																																																				<a href="https://GitHub.Com/CodeEditorLand/LandJupyterIpywidgets" target="_blank">
 																																																																																																																																																					<b>
-																																																																																																																																																						NPM module for supporting ipywidgets in vscode-jupyter extension
+																																																																																																																																																						NPM&#x2001;module&#x2001;for&#x2001;supporting&#x2001;ipywidgets&#x2001;in&#x2001;vscode-jupyter&#x2001;extension
 																																																																																																																																																					</b>
 																																																																																																																																																				</a>
 																																																																																																																																																			</td>
@@ -6305,7 +6305,7 @@
 																																																																																																																																																											<br />
 																																																																																																																																																											<a href="https://GitHub.Com/CodeEditorLand/LandJupyterPowertoys" target="_blank">
 																																																																																																																																																												<b>
-																																																																																																																																																													PowerToys for Jupyter notebooks in VS Code
+																																																																																																																																																													PowerToys&#x2001;for&#x2001;Jupyter&#x2001;notebooks&#x2001;in&#x2001;VS&#x2001;Code
 																																																																																																																																																												</b>
 																																																																																																																																																											</a>
 																																																																																																																																																										</td>
@@ -6572,7 +6572,7 @@
 																																																																																																																																																																																	<br />
 																																																																																																																																																																																	<a href="https://GitHub.Com/CodeEditorLand/LandLaTeX" target="_blank">
 																																																																																																																																																																																		<b>
-																																																																																																																																																																																			A colorizer and set of snippets for LaTeX
+																																																																																																																																																																																			A&#x2001;colorizer&#x2001;and&#x2001;set&#x2001;of&#x2001;snippets&#x2001;for&#x2001;LaTeX
 																																																																																																																																																																																		</b>
 																																																																																																																																																																																	</a>
 																																																																																																																																																																																</td>
@@ -6613,7 +6613,7 @@
 																																																																																																																																																																																	<br />
 																																																																																																																																																																																	<a href="https://GitHub.Com/CodeEditorLand/LandLinuxBuildAgent" target="_blank">
 																																																																																																																																																																																		<b>
-																																																																																																																																																																																			VS Code Linux Build Agent
+																																																																																																																																																																																			VS&#x2001;Code&#x2001;Linux&#x2001;Build&#x2001;Agent
 																																																																																																																																																																																		</b>
 																																																																																																																																																																																	</a>
 																																																																																																																																																																																</td>
@@ -6768,7 +6768,7 @@
 																																																																																																																																																																																											<br />
 																																																																																																																																																																																											<a href="https://GitHub.Com/CodeEditorLand/LandLocDeprecated" target="_blank">
 																																																																																																																																																																																												<b>
-																																																																																																																																																																																													Language packs that are stale and not included in the VS Code localization pipeline
+																																																																																																																																																																																													Language&#x2001;packs&#x2001;that&#x2001;are&#x2001;stale&#x2001;and&#x2001;not&#x2001;included&#x2001;in&#x2001;the&#x2001;VS&#x2001;Code&#x2001;localization&#x2001;pipeline
 																																																																																																																																																																																												</b>
 																																																																																																																																																																																											</a>
 																																																																																																																																																																																										</td>
@@ -6810,7 +6810,7 @@
 																																																																																																																																																																																												<br />
 																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandLombok" target="_blank">
 																																																																																																																																																																																													<b>
-																																																																																																																																																																																														Lombok Annotations Extension for Visual Studio Code
+																																																																																																																																																																																														Lombok&#x2001;Annotations&#x2001;Extension&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																																																																																																																																													</b>
 																																																																																																																																																																																												</a>
 																																																																																																																																																																																											</td>
@@ -6851,7 +6851,7 @@
 																																																																																																																																																																																												<br />
 																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandLsifExtension" target="_blank">
 																																																																																																																																																																																													<b>
-																																																																																																																																																																																														Extension for a LSIF Server
+																																																																																																																																																																																														Extension&#x2001;for&#x2001;a&#x2001;LSIF&#x2001;Server
 																																																																																																																																																																																													</b>
 																																																																																																																																																																																												</a>
 																																																																																																																																																																																											</td>
@@ -6894,7 +6894,7 @@
 																																																																																																																																																																																												<br />
 																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandMakecode" target="_blank">
 																																																																																																																																																																																													<b>
-																																																																																																																																																																																														A vscodedev compatible extension for Microsoft MakeCode
+																																																																																																																																																																																														A&#x2001;vscodedev&#x2001;compatible&#x2001;extension&#x2001;for&#x2001;Microsoft&#x2001;MakeCode
 																																																																																																																																																																																													</b>
 																																																																																																																																																																																												</a>
 																																																																																																																																																																																											</td>
@@ -6973,7 +6973,7 @@
 																																																																																																																																																																																																<br />
 																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandMarkdownItKatex" target="_blank">
 																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																		Add Math to your Markdown with a KaTeX plugin for Markdown-it
+																																																																																																																																																																																																		Add&#x2001;Math&#x2001;to&#x2001;your&#x2001;Markdown&#x2001;with&#x2001;a&#x2001;KaTeX&#x2001;plugin&#x2001;for&#x2001;Markdown-it
 																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																</a>
 																																																																																																																																																																																															</td>
@@ -7052,7 +7052,7 @@
 																																																																																																																																																																																																				<br />
 																																																																																																																																																																																																				<a href="https://GitHub.Com/CodeEditorLand/LandMarkdownNotebook" target="_blank">
 																																																																																																																																																																																																					<b>
-																																																																																																																																																																																																						An extension for editing markdown files in VS Code notebooks
+																																																																																																																																																																																																						An&#x2001;extension&#x2001;for&#x2001;editing&#x2001;markdown&#x2001;files&#x2001;in&#x2001;VS&#x2001;Code&#x2001;notebooks
 																																																																																																																																																																																																					</b>
 																																																																																																																																																																																																				</a>
 																																																																																																																																																																																																			</td>
@@ -7093,8 +7093,8 @@
 																																																																																																																																																																																																				<br />
 																																																																																																																																																																																																				<a href="https://GitHub.Com/CodeEditorLand/LandMarkdownTmGrammar" target="_blank">
 																																																																																																																																																																																																					<b>
-																																																																																																																																																																																																						VS Code built-in markdown extension
-					s Textmate grammar
+																																																																																																																																																																																																						VS&#x2001;Code&#x2001;built-in&#x2001;markdown&#x2001;extension
+					s&#x2001;Textmate&#x2001;grammar
 																																																																																																																																																																																																					</b>
 																																																																																																																																																																																																				</a>
 																																																																																																																																																																																																			</td>
@@ -7137,7 +7137,7 @@
 																																																																																																																																																																																																				<br />
 																																																																																																																																																																																																				<a href="https://GitHub.Com/CodeEditorLand/LandMaven" target="_blank">
 																																																																																																																																																																																																					<b>
-																																																																																																																																																																																																						VSCode extension Maven for Java
+																																																																																																																																																																																																						VSCode&#x2001;extension&#x2001;Maven&#x2001;for&#x2001;Java
 																																																																																																																																																																																																					</b>
 																																																																																																																																																																																																				</a>
 																																																																																																																																																																																																			</td>
@@ -7178,7 +7178,7 @@
 																																																																																																																																																																																																				<br />
 																																																																																																																																																																																																				<a href="https://GitHub.Com/CodeEditorLand/LandMDTools" target="_blank">
 																																																																																																																																																																																																					<b>
-																																																																																																																																																																																																						This is a sample markdown extension eg wordcount and toUpper
+																																																																																																																																																																																																						This&#x2001;is&#x2001;a&#x2001;sample&#x2001;markdown&#x2001;extension&#x2001;eg&#x2001;wordcount&#x2001;and&#x2001;toUpper
 																																																																																																																																																																																																					</b>
 																																																																																																																																																																																																				</a>
 																																																																																																																																																																																																			</td>
@@ -7221,7 +7221,7 @@
 																																																																																																																																																																																																				<br />
 																																																																																																																																																																																																				<a href="https://GitHub.Com/CodeEditorLand/LandMezzurite" target="_blank">
 																																																																																																																																																																																																					<b>
-																																																																																																																																																																																																						VS-code extension to improve the integration with Mezzurite experience
+																																																																																																																																																																																																						VS-code&#x2001;extension&#x2001;to&#x2001;improve&#x2001;the&#x2001;integration&#x2001;with&#x2001;Mezzurite&#x2001;experience
 																																																																																																																																																																																																					</b>
 																																																																																																																																																																																																				</a>
 																																																																																																																																																																																																			</td>
@@ -7300,7 +7300,7 @@
 																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandMockDebug" target="_blank">
 																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																										Starter sample for developing debug adapters for VSCode
+																																																																																																																																																																																																										Starter&#x2001;sample&#x2001;for&#x2001;developing&#x2001;debug&#x2001;adapters&#x2001;for&#x2001;VSCode
 																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																							</td>
@@ -7379,7 +7379,7 @@
 																																																																																																																																																																																																												<br />
 																																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandMonoDebug" target="_blank">
 																																																																																																																																																																																																													<b>
-																																																																																																																																																																																																														A simple VS Code debug adapter for mono
+																																																																																																																																																																																																														A&#x2001;simple&#x2001;VS&#x2001;Code&#x2001;debug&#x2001;adapter&#x2001;for&#x2001;mono
 																																																																																																																																																																																																													</b>
 																																																																																																																																																																																																												</a>
 																																																																																																																																																																																																											</td>
@@ -7495,7 +7495,7 @@
 																																																																																																																																																																																																																			<br />
 																																																																																																																																																																																																																			<a href="https://GitHub.Com/CodeEditorLand/LandNls" target="_blank">
 																																																																																																																																																																																																																				<b>
-																																																																																																																																																																																																																					npm module to support externalization and localization of VSCode extensions
+																																																																																																																																																																																																																					npm&#x2001;module&#x2001;to&#x2001;support&#x2001;externalization&#x2001;and&#x2001;localization&#x2001;of&#x2001;VSCode&#x2001;extensions
 																																																																																																																																																																																																																				</b>
 																																																																																																																																																																																																																			</a>
 																																																																																																																																																																																																																		</td>
@@ -7574,7 +7574,7 @@
 																																																																																																																																																																																																																							<br />
 																																																																																																																																																																																																																							<a href="https://GitHub.Com/CodeEditorLand/LandNodeAzurePack" target="_blank">
 																																																																																																																																																																																																																								<b>
-																																																																																																																																																																																																																									Node Azure Tools for VS Code
+																																																																																																																																																																																																																									Node&#x2001;Azure&#x2001;Tools&#x2001;for&#x2001;VS&#x2001;Code
 																																																																																																																																																																																																																								</b>
 																																																																																																																																																																																																																							</a>
 																																																																																																																																																																																																																						</td>
@@ -7616,7 +7616,7 @@
 																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandNodebook" target="_blank">
 																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																										Nodejs notebook
+																																																																																																																																																																																																																										Nodejs&#x2001;notebook
 																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																							</td>
@@ -7657,7 +7657,7 @@
 																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandNodeDebug" target="_blank">
 																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																										A VS Code debug adapter for node
+																																																																																																																																																																																																																										A&#x2001;VS&#x2001;Code&#x2001;debug&#x2001;adapter&#x2001;for&#x2001;node
 																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																							</td>
@@ -7700,7 +7700,7 @@
 																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandNodeDebug2" target="_blank">
 																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																										A VS Code debug adapter that supports debugging Node via the Chrome Debugging Protocol
+																																																																																																																																																																																																																										A&#x2001;VS&#x2001;Code&#x2001;debug&#x2001;adapter&#x2001;that&#x2001;supports&#x2001;debugging&#x2001;Node&#x2001;via&#x2001;the&#x2001;Chrome&#x2001;Debugging&#x2001;Protocol
 																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																							</td>
@@ -7779,7 +7779,7 @@
 																																																																																																																																																																																																																												<br />
 																																																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandNotebookErrorOverlay" target="_blank">
 																																																																																																																																																																																																																													<b>
-																																																																																																																																																																																																																														Provides a notebook-aware error overlay in VS Code notebooks built with the webpack-dev-server
+																																																																																																																																																																																																																														Provides&#x2001;a&#x2001;notebook-aware&#x2001;error&#x2001;overlay&#x2001;in&#x2001;VS&#x2001;Code&#x2001;notebooks&#x2001;built&#x2001;with&#x2001;the&#x2001;webpack-dev-server
 																																																																																																																																																																																																																													</b>
 																																																																																																																																																																																																																												</a>
 																																																																																																																																																																																																																											</td>
@@ -7858,7 +7858,7 @@
 																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandNotebookRendererStarter" target="_blank">
 																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																		Notebook renderer starter template
+																																																																																																																																																																																																																																		Notebook&#x2001;renderer&#x2001;starter&#x2001;template
 																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																															</td>
@@ -7937,7 +7937,7 @@
 																																																																																																																																																																																																																																				<br />
 																																																																																																																																																																																																																																				<a href="https://GitHub.Com/CodeEditorLand/LandNotepadPlusPlusKeybindings" target="_blank">
 																																																																																																																																																																																																																																					<b>
-																																																																																																																																																																																																																																						Notepad++ Keybindings extension for VS Code
+																																																																																																																																																																																																																																						Notepad++&#x2001;Keybindings&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code
 																																																																																																																																																																																																																																					</b>
 																																																																																																																																																																																																																																				</a>
 																																																																																																																																																																																																																																			</td>
@@ -8053,7 +8053,7 @@
 																																																																																																																																																																																																																																											<br />
 																																																																																																																																																																																																																																											<a href="https://GitHub.Com/CodeEditorLand/LandOnedriveBrowser" target="_blank">
 																																																																																																																																																																																																																																												<b>
-																																																																																																																																																																																																																																													Browse and edit files from OneDrive in VS Code and on vscodedev
+																																																																																																																																																																																																																																													Browse&#x2001;and&#x2001;edit&#x2001;files&#x2001;from&#x2001;OneDrive&#x2001;in&#x2001;VS&#x2001;Code&#x2001;and&#x2001;on&#x2001;vscodedev
 																																																																																																																																																																																																																																												</b>
 																																																																																																																																																																																																																																											</a>
 																																																																																																																																																																																																																																										</td>
@@ -8095,7 +8095,7 @@
 																																																																																																																																																																																																																																												<br />
 																																																																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandOniguruma" target="_blank">
 																																																																																																																																																																																																																																													<b>
-																																																																																																																																																																																																																																														Oniguruma Bindings for VS Code
+																																																																																																																																																																																																																																														Oniguruma&#x2001;Bindings&#x2001;for&#x2001;VS&#x2001;Code
 																																																																																																																																																																																																																																													</b>
 																																																																																																																																																																																																																																												</a>
 																																																																																																																																																																																																																																											</td>
@@ -8136,7 +8136,7 @@
 																																																																																																																																																																																																																																												<br />
 																																																																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandOpenSSLPrebuilt" target="_blank">
 																																																																																																																																																																																																																																													<b>
-																																																																																																																																																																																																																																														Builds openssl libraries packages for VS Code on multiple platforms
+																																																																																																																																																																																																																																														Builds&#x2001;openssl&#x2001;libraries&#x2001;packages&#x2001;for&#x2001;VS&#x2001;Code&#x2001;on&#x2001;multiple&#x2001;platforms
 																																																																																																																																																																																																																																													</b>
 																																																																																																																																																																																																																																												</a>
 																																																																																																																																																																																																																																											</td>
@@ -8291,7 +8291,7 @@
 																																																																																																																																																																																																																																																						<br />
 																																																																																																																																																																																																																																																						<a href="https://GitHub.Com/CodeEditorLand/LandPolicyWatcher" target="_blank">
 																																																																																																																																																																																																																																																							<b>
-																																																																																																																																																																																																																																																								VS Code native module for loading and reading OS policies
+																																																																																																																																																																																																																																																								VS&#x2001;Code&#x2001;native&#x2001;module&#x2001;for&#x2001;loading&#x2001;and&#x2001;reading&#x2001;OS&#x2001;policies
 																																																																																																																																																																																																																																																							</b>
 																																																																																																																																																																																																																																																						</a>
 																																																																																																																																																																																																																																																					</td>
@@ -8408,7 +8408,7 @@
 																																																																																																																																																																																																																																																														<br />
 																																																																																																																																																																																																																																																														<a href="https://GitHub.Com/CodeEditorLand/LandPowerquerySdk" target="_blank">
 																																																																																																																																																																																																																																																															<b>
-																																																																																																																																																																																																																																																																Power Query Connector Development SDK for VS Code
+																																																																																																																																																																																																																																																																Power&#x2001;Query&#x2001;Connector&#x2001;Development&#x2001;SDK&#x2001;for&#x2001;VS&#x2001;Code
 																																																																																																																																																																																																																																																															</b>
 																																																																																																																																																																																																																																																														</a>
 																																																																																																																																																																																																																																																													</td>
@@ -8449,7 +8449,7 @@
 																																																																																																																																																																																																																																																														<br />
 																																																																																																																																																																																																																																																														<a href="https://GitHub.Com/CodeEditorLand/LandProxyAgent" target="_blank">
 																																																																																																																																																																																																																																																															<b>
-																																																																																																																																																																																																																																																																A PAC file proxy `httpAgent` implementation for HTTP and HTTPS
+																																																																																																																																																																																																																																																																A&#x2001;PAC&#x2001;file&#x2001;proxy&#x2001;`httpAgent`&#x2001;implementation&#x2001;for&#x2001;HTTP&#x2001;and&#x2001;HTTPS
 																																																																																																																																																																																																																																																															</b>
 																																																																																																																																																																																																																																																														</a>
 																																																																																																																																																																																																																																																													</td>
@@ -8567,7 +8567,7 @@
 																																																																																																																																																																																																																																																																					<br />
 																																																																																																																																																																																																																																																																					<a href="https://GitHub.Com/CodeEditorLand/LandPylint" target="_blank">
 																																																																																																																																																																																																																																																																						<b>
-																																																																																																																																																																																																																																																																							Linting support for python using the pylint library
+																																																																																																																																																																																																																																																																							Linting&#x2001;support&#x2001;for&#x2001;python&#x2001;using&#x2001;the&#x2001;pylint&#x2001;library
 																																																																																																																																																																																																																																																																						</b>
 																																																																																																																																																																																																																																																																					</a>
 																																																																																																																																																																																																																																																																				</td>
@@ -8608,7 +8608,7 @@
 																																																																																																																																																																																																																																																																					<br />
 																																																																																																																																																																																																																																																																					<a href="https://GitHub.Com/CodeEditorLand/LandPython" target="_blank">
 																																																																																																																																																																																																																																																																						<b>
-																																																																																																																																																																																																																																																																							Python extension for Visual Studio Code
+																																																																																																																																																																																																																																																																							Python&#x2001;extension&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																																																																																																																																																																																																																						</b>
 																																																																																																																																																																																																																																																																					</a>
 																																																																																																																																																																																																																																																																				</td>
@@ -8763,7 +8763,7 @@
 																																																																																																																																																																																																																																																																															<br />
 																																																																																																																																																																																																																																																																															<a href="https://GitHub.Com/CodeEditorLand/LandPythonInstaller" target="_blank">
 																																																																																																																																																																																																																																																																																<b>
-																																																																																																																																																																																																																																																																																	Code for running pip and conda installs from a VS Code extension
+																																																																																																																																																																																																																																																																																	Code&#x2001;for&#x2001;running&#x2001;pip&#x2001;and&#x2001;conda&#x2001;installs&#x2001;from&#x2001;a&#x2001;VS&#x2001;Code&#x2001;extension
 																																																																																																																																																																																																																																																																																</b>
 																																																																																																																																																																																																																																																																															</a>
 																																																																																																																																																																																																																																																																														</td>
@@ -8805,7 +8805,7 @@
 																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandPythonToolsExtensionTemplate" target="_blank">
 																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																		Template for creating VS Code extensions for python tools
+																																																																																																																																																																																																																																																																																		Template&#x2001;for&#x2001;creating&#x2001;VS&#x2001;Code&#x2001;extensions&#x2001;for&#x2001;python&#x2001;tools
 																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																															</td>
@@ -8846,7 +8846,7 @@
 																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandPythonWebWASM" target="_blank">
 																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																		An extension allows to run Python code in a Web browser using WebAssembly technology
+																																																																																																																																																																																																																																																																																		An&#x2001;extension&#x2001;allows&#x2001;to&#x2001;run&#x2001;Python&#x2001;code&#x2001;in&#x2001;a&#x2001;Web&#x2001;browser&#x2001;using&#x2001;WebAssembly&#x2001;technology
 																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																															</td>
@@ -8926,7 +8926,7 @@
 																																																																																																																																																																																																																																																																																			<br />
 																																																																																																																																																																																																																																																																																			<a href="https://GitHub.Com/CodeEditorLand/LandReactSample" target="_blank">
 																																																																																																																																																																																																																																																																																				<b>
-																																																																																																																																																																																																																																																																																					React todo demo for Build conference
+																																																																																																																																																																																																																																																																																					React&#x2001;todo&#x2001;demo&#x2001;for&#x2001;Build&#x2001;conference
 																																																																																																																																																																																																																																																																																				</b>
 																																																																																																																																																																																																																																																																																			</a>
 																																																																																																																																																																																																																																																																																		</td>
@@ -9005,7 +9005,7 @@
 																																																																																																																																																																																																																																																																																							<br />
 																																																																																																																																																																																																																																																																																							<a href="https://GitHub.Com/CodeEditorLand/LandReferencesView" target="_blank">
 																																																																																																																																																																																																																																																																																								<b>
-																																																																																																																																																																																																																																																																																									Show reference search results as tree
+																																																																																																																																																																																																																																																																																									Show&#x2001;reference&#x2001;search&#x2001;results&#x2001;as&#x2001;tree
 																																																																																																																																																																																																																																																																																								</b>
 																																																																																																																																																																																																																																																																																							</a>
 																																																																																																																																																																																																																																																																																						</td>
@@ -9047,8 +9047,8 @@
 																																																																																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandRemoteRelease" target="_blank">
 																																																																																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																																																																																										Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code
-					s full feature set
+																																																																																																																																																																																																																																																																																										Visual&#x2001;Studio&#x2001;Code&#x2001;Remote&#x2001;Development:&#x2001;Open&#x2001;any&#x2001;folder&#x2001;in&#x2001;WSL,&#x2001;in&#x2001;a&#x2001;Docker&#x2001;container,&#x2001;or&#x2001;on&#x2001;a&#x2001;remote&#x2001;machine&#x2001;using&#x2001;SSH&#x2001;and&#x2001;take&#x2001;advantage&#x2001;of&#x2001;VS&#x2001;Code
+					s&#x2001;full&#x2001;feature&#x2001;set
 																																																																																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																																																																																							</td>
@@ -9089,7 +9089,7 @@
 																																																																																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandRemoteRepositoriesGitHub" target="_blank">
 																																																																																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																																																																																										Quickly browse, search, edit, and commit to any GitHub or Azure Repos repository directly from within Visual Studio Code
+																																																																																																																																																																																																																																																																																										Quickly&#x2001;browse,&#x2001;search,&#x2001;edit,&#x2001;and&#x2001;commit&#x2001;to&#x2001;any&#x2001;GitHub&#x2001;or&#x2001;Azure&#x2001;Repos&#x2001;repository&#x2001;directly&#x2001;from&#x2001;within&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																																																																																							</td>
@@ -9132,7 +9132,7 @@
 																																																																																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandRemoteTryCPP" target="_blank">
 																																																																																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																																																																																										C++ sample project for trying out Dev Containers
+																																																																																																																																																																																																																																																																																										C++&#x2001;sample&#x2001;project&#x2001;for&#x2001;trying&#x2001;out&#x2001;Dev&#x2001;Containers
 																																																																																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																																																																																							</td>
@@ -9173,7 +9173,7 @@
 																																																																																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandRemoteTryDotNET" target="_blank">
 																																																																																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																																																																																										NET sample project for trying out Dev Containers
+																																																																																																																																																																																																																																																																																										NET&#x2001;sample&#x2001;project&#x2001;for&#x2001;trying&#x2001;out&#x2001;Dev&#x2001;Containers
 																																																																																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																																																																																							</td>
@@ -9216,7 +9216,7 @@
 																																																																																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandRemoteTryGo" target="_blank">
 																																																																																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																																																																																										Go sample project for trying out Dev Containers
+																																																																																																																																																																																																																																																																																										Go&#x2001;sample&#x2001;project&#x2001;for&#x2001;trying&#x2001;out&#x2001;Dev&#x2001;Containers
 																																																																																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																																																																																							</td>
@@ -9295,7 +9295,7 @@
 																																																																																																																																																																																																																																																																																												<br />
 																																																																																																																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandRemoteTryNode" target="_blank">
 																																																																																																																																																																																																																																																																																													<b>
-																																																																																																																																																																																																																																																																																														Nodejs sample project for trying out Dev Containers
+																																																																																																																																																																																																																																																																																														Nodejs&#x2001;sample&#x2001;project&#x2001;for&#x2001;trying&#x2001;out&#x2001;Dev&#x2001;Containers
 																																																																																																																																																																																																																																																																																													</b>
 																																																																																																																																																																																																																																																																																												</a>
 																																																																																																																																																																																																																																																																																											</td>
@@ -9336,7 +9336,7 @@
 																																																																																																																																																																																																																																																																																												<br />
 																																																																																																																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandRemoteTryPhp" target="_blank">
 																																																																																																																																																																																																																																																																																													<b>
-																																																																																																																																																																																																																																																																																														PHP sample project for trying out Dev Containers
+																																																																																																																																																																																																																																																																																														PHP&#x2001;sample&#x2001;project&#x2001;for&#x2001;trying&#x2001;out&#x2001;Dev&#x2001;Containers
 																																																																																																																																																																																																																																																																																													</b>
 																																																																																																																																																																																																																																																																																												</a>
 																																																																																																																																																																																																																																																																																											</td>
@@ -9379,7 +9379,7 @@
 																																																																																																																																																																																																																																																																																												<br />
 																																																																																																																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandRemoteTryPython" target="_blank">
 																																																																																																																																																																																																																																																																																													<b>
-																																																																																																																																																																																																																																																																																														Python sample project for trying out Dev Containers
+																																																																																																																																																																																																																																																																																														Python&#x2001;sample&#x2001;project&#x2001;for&#x2001;trying&#x2001;out&#x2001;Dev&#x2001;Containers
 																																																																																																																																																																																																																																																																																													</b>
 																																																																																																																																																																																																																																																																																												</a>
 																																																																																																																																																																																																																																																																																											</td>
@@ -9420,7 +9420,7 @@
 																																																																																																																																																																																																																																																																																												<br />
 																																																																																																																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandRemoteTryRust" target="_blank">
 																																																																																																																																																																																																																																																																																													<b>
-																																																																																																																																																																																																																																																																																														Rust sample project for trying out Dev Containers
+																																																																																																																																																																																																																																																																																														Rust&#x2001;sample&#x2001;project&#x2001;for&#x2001;trying&#x2001;out&#x2001;Dev&#x2001;Containers
 																																																																																																																																																																																																																																																																																													</b>
 																																																																																																																																																																																																																																																																																												</a>
 																																																																																																																																																																																																																																																																																											</td>
@@ -9463,7 +9463,7 @@
 																																																																																																																																																																																																																																																																																												<br />
 																																																																																																																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandRemoteTrySQLserver" target="_blank">
 																																																																																																																																																																																																																																																																																													<b>
-																																																																																																																																																																																																																																																																																														SQL Server and Azure SQL sample project for trying out the Dev Containers extension
+																																																																																																																																																																																																																																																																																														SQL&#x2001;Server&#x2001;and&#x2001;Azure&#x2001;SQL&#x2001;sample&#x2001;project&#x2001;for&#x2001;trying&#x2001;out&#x2001;the&#x2001;Dev&#x2001;Containers&#x2001;extension
 																																																																																																																																																																																																																																																																																													</b>
 																																																																																																																																																																																																																																																																																												</a>
 																																																																																																																																																																																																																																																																																											</td>
@@ -9504,7 +9504,7 @@
 																																																																																																																																																																																																																																																																																												<br />
 																																																																																																																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandRemoteWSLRecommender" target="_blank">
 																																																																																																																																																																																																																																																																																													<b>
-																																																																																																																																																																																																																																																																																														VS Code extension that recommends using the Windows Subsystem for Linux (WSL) and the Remote WSL extension
+																																																																																																																																																																																																																																																																																														VS&#x2001;Code&#x2001;extension&#x2001;that&#x2001;recommends&#x2001;using&#x2001;the&#x2001;Windows&#x2001;Subsystem&#x2001;for&#x2001;Linux&#x2001;(WSL)&#x2001;and&#x2001;the&#x2001;Remote&#x2001;WSL&#x2001;extension
 																																																																																																																																																																																																																																																																																													</b>
 																																																																																																																																																																																																																																																																																												</a>
 																																																																																																																																																																																																																																																																																											</td>
@@ -9547,7 +9547,7 @@
 																																																																																																																																																																																																																																																																																												<br />
 																																																																																																																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandResharperKeybindings" target="_blank">
 																																																																																																																																																																																																																																																																																													<b>
-																																																																																																																																																																																																																																																																																														Resharper 9 Keybindings port to VS Code
+																																																																																																																																																																																																																																																																																														Resharper&#x2001;9&#x2001;Keybindings&#x2001;port&#x2001;to&#x2001;VS&#x2001;Code
 																																																																																																																																																																																																																																																																																													</b>
 																																																																																																																																																																																																																																																																																												</a>
 																																																																																																																																																																																																																																																																																											</td>
@@ -9588,7 +9588,7 @@
 																																																																																																																																																																																																																																																																																												<br />
 																																																																																																																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandRipGREP" target="_blank">
 																																																																																																																																																																																																																																																																																													<b>
-																																																																																																																																																																																																																																																																																														For consuming the ripgrep binary from microsoft⁄ripgrep-prebuilt in a Node project
+																																																																																																																																																																																																																																																																																														For&#x2001;consuming&#x2001;the&#x2001;ripgrep&#x2001;binary&#x2001;from&#x2001;microsoft⁄ripgrep-prebuilt&#x2001;in&#x2001;a&#x2001;Node&#x2001;project
 																																																																																																																																																																																																																																																																																													</b>
 																																																																																																																																																																																																																																																																																												</a>
 																																																																																																																																																																																																																																																																																											</td>
@@ -9706,7 +9706,7 @@
 																																																																																																																																																																																																																																																																																																			<br />
 																																																																																																																																																																																																																																																																																																			<a href="https://GitHub.Com/CodeEditorLand/LandSCMBuilders" target="_blank">
 																																																																																																																																																																																																																																																																																																				<b>
-																																																																																																																																																																																																																																																																																																					This is a repo to help the extension builder community create new SCM providers for Visual Studio Code It contains samples as well as instructions for getting going
+																																																																																																																																																																																																																																																																																																					This&#x2001;is&#x2001;a&#x2001;repo&#x2001;to&#x2001;help&#x2001;the&#x2001;extension&#x2001;builder&#x2001;community&#x2001;create&#x2001;new&#x2001;SCM&#x2001;providers&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code&#x2001;It&#x2001;contains&#x2001;samples&#x2001;as&#x2001;well&#x2001;as&#x2001;instructions&#x2001;for&#x2001;getting&#x2001;going
 																																																																																																																																																																																																																																																																																																				</b>
 																																																																																																																																																																																																																																																																																																			</a>
 																																																																																																																																																																																																																																																																																																		</td>
@@ -9747,7 +9747,7 @@
 																																																																																																																																																																																																																																																																																																			<br />
 																																																																																																																																																																																																																																																																																																			<a href="https://GitHub.Com/CodeEditorLand/LandSecretServiceRs" target="_blank">
 																																																																																																																																																																																																																																																																																																				<b>
-																																																																																																																																																																																																																																																																																																					Rust library for interfacing with Secret Service API
+																																																																																																																																																																																																																																																																																																					Rust&#x2001;library&#x2001;for&#x2001;interfacing&#x2001;with&#x2001;Secret&#x2001;Service&#x2001;API
 																																																																																																																																																																																																																																																																																																				</b>
 																																																																																																																																																																																																																																																																																																			</a>
 																																																																																																																																																																																																																																																																																																		</td>
@@ -9790,7 +9790,7 @@
 																																																																																																																																																																																																																																																																																																			<br />
 																																																																																																																																																																																																																																																																																																			<a href="https://GitHub.Com/CodeEditorLand/LandSelfhostTestProvider" target="_blank">
 																																																																																																																																																																																																																																																																																																				<b>
-																																																																																																																																																																																																																																																																																																					Test provider for the VS Code project
+																																																																																																																																																																																																																																																																																																					Test&#x2001;provider&#x2001;for&#x2001;the&#x2001;VS&#x2001;Code&#x2001;project
 																																																																																																																																																																																																																																																																																																				</b>
 																																																																																																																																																																																																																																																																																																			</a>
 																																																																																																																																																																																																																																																																																																		</td>
@@ -9869,7 +9869,7 @@
 																																																																																																																																																																																																																																																																																																							<br />
 																																																																																																																																																																																																																																																																																																							<a href="https://GitHub.Com/CodeEditorLand/LandServiceFabricReliableServices" target="_blank">
 																																																																																																																																																																																																																																																																																																								<b>
-																																																																																																																																																																																																																																																																																																									Visual Studio Code extension for Reliable Services in Service Fabric
+																																																																																																																																																																																																																																																																																																									Visual&#x2001;Studio&#x2001;Code&#x2001;extension&#x2001;for&#x2001;Reliable&#x2001;Services&#x2001;in&#x2001;Service&#x2001;Fabric
 																																																																																																																																																																																																																																																																																																								</b>
 																																																																																																																																																																																																																																																																																																							</a>
 																																																																																																																																																																																																																																																																																																						</td>
@@ -9910,7 +9910,7 @@
 																																																																																																																																																																																																																																																																																																							<br />
 																																																																																																																																																																																																																																																																																																							<a href="https://GitHub.Com/CodeEditorLand/LandServiceStatus" target="_blank">
 																																																																																																																																																																																																																																																																																																								<b>
-																																																																																																																																																																																																																																																																																																									This repository is used to track live site incidents impacting services that power Visual Studio Code
+																																																																																																																																																																																																																																																																																																									This&#x2001;repository&#x2001;is&#x2001;used&#x2001;to&#x2001;track&#x2001;live&#x2001;site&#x2001;incidents&#x2001;impacting&#x2001;services&#x2001;that&#x2001;power&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																																																																																																																																																																																																																																																								</b>
 																																																																																																																																																																																																																																																																																																							</a>
 																																																																																																																																																																																																																																																																																																						</td>
@@ -10103,7 +10103,7 @@
 																																																																																																																																																																																																																																																																																																																					<br />
 																																																																																																																																																																																																																																																																																																																					<a href="https://GitHub.Com/CodeEditorLand/LandSpellCheck" target="_blank">
 																																																																																																																																																																																																																																																																																																																						<b>
-																																																																																																																																																																																																																																																																																																																							An extension to VSCode for spell and grammar checking
+																																																																																																																																																																																																																																																																																																																							An&#x2001;extension&#x2001;to&#x2001;VSCode&#x2001;for&#x2001;spell&#x2001;and&#x2001;grammar&#x2001;checking
 																																																																																																																																																																																																																																																																																																																						</b>
 																																																																																																																																																																																																																																																																																																																					</a>
 																																																																																																																																																																																																																																																																																																																				</td>
@@ -10182,7 +10182,7 @@
 																																																																																																																																																																																																																																																																																																																									<br />
 																																																																																																																																																																																																																																																																																																																									<a href="https://GitHub.Com/CodeEditorLand/LandSpringInitializr" target="_blank">
 																																																																																																																																																																																																																																																																																																																										<b>
-																																																																																																																																																																																																																																																																																																																											VSCode Extension for Spring Initializr
+																																																																																																																																																																																																																																																																																																																											VSCode&#x2001;Extension&#x2001;for&#x2001;Spring&#x2001;Initializr
 																																																																																																																																																																																																																																																																																																																										</b>
 																																																																																																																																																																																																																																																																																																																									</a>
 																																																																																																																																																																																																																																																																																																																								</td>
@@ -10261,7 +10261,7 @@
 																																																																																																																																																																																																																																																																																																																													<br />
 																																																																																																																																																																																																																																																																																																																													<a href="https://GitHub.Com/CodeEditorLand/LandSublimeKeybindings" target="_blank">
 																																																																																																																																																																																																																																																																																																																														<b>
-																																																																																																																																																																																																																																																																																																																															Sublime Text Keymap extension for VS Code
+																																																																																																																																																																																																																																																																																																																															Sublime&#x2001;Text&#x2001;Keymap&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code
 																																																																																																																																																																																																																																																																																																																														</b>
 																																																																																																																																																																																																																																																																																																																													</a>
 																																																																																																																																																																																																																																																																																																																												</td>
@@ -10415,7 +10415,7 @@
 																																																																																																																																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandTeam" target="_blank">
 																																																																																																																																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																																																																																																																																										VS Code Team Nodebook
+																																																																																																																																																																																																																																																																																																																																										VS&#x2001;Code&#x2001;Team&#x2001;Nodebook
 																																																																																																																																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																																																																																																																																							</td>
@@ -10456,7 +10456,7 @@
 																																																																																																																																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandTelemetryExtractor" target="_blank">
 																																																																																																																																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																																																																																																																																										Allows the extraction of telemetry events from the VS Code source code
+																																																																																																																																																																																																																																																																																																																																										Allows&#x2001;the&#x2001;extraction&#x2001;of&#x2001;telemetry&#x2001;events&#x2001;from&#x2001;the&#x2001;VS&#x2001;Code&#x2001;source&#x2001;code
 																																																																																																																																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																																																																																																																																							</td>
@@ -10499,7 +10499,7 @@
 																																																																																																																																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandTensorboard" target="_blank">
 																																																																																																																																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																																																																																																																																										Launch and view Tensorboards in VS Code
+																																																																																																																																																																																																																																																																																																																																										Launch&#x2001;and&#x2001;view&#x2001;Tensorboards&#x2001;in&#x2001;VS&#x2001;Code
 																																																																																																																																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																																																																																																																																							</td>
@@ -10540,7 +10540,7 @@
 																																																																																																																																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandTest" target="_blank">
 																																																																																																																																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																																																																																																																																										Testing utility for VS Code extensions
+																																																																																																																																																																																																																																																																																																																																										Testing&#x2001;utility&#x2001;for&#x2001;VS&#x2001;Code&#x2001;extensions
 																																																																																																																																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																																																																																																																																							</td>
@@ -10583,7 +10583,7 @@
 																																																																																																																																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandTestAdapterConverter" target="_blank">
 																																																																																																																																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																																																																																																																																										Bridge extension for converting Test Adapter UI to native VS Code testing
+																																																																																																																																																																																																																																																																																																																																										Bridge&#x2001;extension&#x2001;for&#x2001;converting&#x2001;Test&#x2001;Adapter&#x2001;UI&#x2001;to&#x2001;native&#x2001;VS&#x2001;Code&#x2001;testing
 																																																																																																																																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																																																																																																																																							</td>
@@ -10699,7 +10699,7 @@
 																																																																																																																																																																																																																																																																																																																																															<br />
 																																																																																																																																																																																																																																																																																																																																															<a href="https://GitHub.Com/CodeEditorLand/LandTestWeb" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																<b>
-																																																																																																																																																																																																																																																																																																																																																	Node module to help testing VS Code web extensions
+																																																																																																																																																																																																																																																																																																																																																	Node&#x2001;module&#x2001;to&#x2001;help&#x2001;testing&#x2001;VS&#x2001;Code&#x2001;web&#x2001;extensions
 																																																																																																																																																																																																																																																																																																																																																</b>
 																																																																																																																																																																																																																																																																																																																																															</a>
 																																																																																																																																																																																																																																																																																																																																														</td>
@@ -10741,7 +10741,7 @@
 																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandTextBuffer" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																		The text buffer implementation that is used in VS Code
+																																																																																																																																																																																																																																																																																																																																																		The&#x2001;text&#x2001;buffer&#x2001;implementation&#x2001;that&#x2001;is&#x2001;used&#x2001;in&#x2001;VS&#x2001;Code
 																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																															</td>
@@ -10820,7 +10820,7 @@
 																																																																																																																																																																																																																																																																																																																																																				<br />
 																																																																																																																																																																																																																																																																																																																																																				<a href="https://GitHub.Com/CodeEditorLand/LandThemeColorConsumer" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																					<b>
-																																																																																																																																																																																																																																																																																																																																																						Normalizes vscode themes and colors
+																																																																																																																																																																																																																																																																																																																																																						Normalizes&#x2001;vscode&#x2001;themes&#x2001;and&#x2001;colors
 																																																																																																																																																																																																																																																																																																																																																					</b>
 																																																																																																																																																																																																																																																																																																																																																				</a>
 																																																																																																																																																																																																																																																																																																																																																			</td>
@@ -10899,7 +10899,7 @@
 																																																																																																																																																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandThemeTester" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																																																																																																																																																										VS Code extension to preview a theme without installing it
+																																																																																																																																																																																																																																																																																																																																																										VS&#x2001;Code&#x2001;extension&#x2001;to&#x2001;preview&#x2001;a&#x2001;theme&#x2001;without&#x2001;installing&#x2001;it
 																																																																																																																																																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																																																																																																																																																							</td>
@@ -10940,7 +10940,7 @@
 																																																																																																																																																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandTipsAndTricks" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																																																																																																																																																										Collection of helpful tips and tricks for VS Code
+																																																																																																																																																																																																																																																																																																																																																										Collection&#x2001;of&#x2001;helpful&#x2001;tips&#x2001;and&#x2001;tricks&#x2001;for&#x2001;VS&#x2001;Code
 																																																																																																																																																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																																																																																																																																																							</td>
@@ -10983,7 +10983,7 @@
 																																																																																																																																																																																																																																																																																																																																																								<br />
 																																																																																																																																																																																																																																																																																																																																																								<a href="https://GitHub.Com/CodeEditorLand/LandTMDL" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																									<b>
-																																																																																																																																																																																																																																																																																																																																																										Tabular Model Definition Language (TMDL) Extensions for Visual Studio Code
+																																																																																																																																																																																																																																																																																																																																																										Tabular&#x2001;Model&#x2001;Definition&#x2001;Language&#x2001;(TMDL)&#x2001;Extensions&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																																																																																																																																																																																																																																																																																																									</b>
 																																																																																																																																																																																																																																																																																																																																																								</a>
 																																																																																																																																																																																																																																																																																																																																																							</td>
@@ -11099,7 +11099,7 @@
 																																																																																																																																																																																																																																																																																																																																																															<br />
 																																																																																																																																																																																																																																																																																																																																																															<a href="https://GitHub.Com/CodeEditorLand/LandTSPackageManager" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																<b>
-																																																																																																																																																																																																																																																																																																																																																																	Web-compatible package manager for tsserver
+																																																																																																																																																																																																																																																																																																																																																																	Web-compatible&#x2001;package&#x2001;manager&#x2001;for&#x2001;tsserver
 																																																																																																																																																																																																																																																																																																																																																																</b>
 																																																																																																																																																																																																																																																																																																																																																															</a>
 																																																																																																																																																																																																																																																																																																																																																														</td>
@@ -11178,7 +11178,7 @@
 																																																																																																																																																																																																																																																																																																																																																																			<br />
 																																																																																																																																																																																																																																																																																																																																																																			<a href="https://GitHub.Com/CodeEditorLand/LandTye" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																				<b>
-																																																																																																																																																																																																																																																																																																																																																																					A Visual Studio Code extension for Tye development
+																																																																																																																																																																																																																																																																																																																																																																					A&#x2001;Visual&#x2001;Studio&#x2001;Code&#x2001;extension&#x2001;for&#x2001;Tye&#x2001;development
 																																																																																																																																																																																																																																																																																																																																																																				</b>
 																																																																																																																																																																																																																																																																																																																																																																			</a>
 																																																																																																																																																																																																																																																																																																																																																																		</td>
@@ -11220,8 +11220,8 @@
 																																																																																																																																																																																																																																																																																																																																																																				<br />
 																																																																																																																																																																																																																																																																																																																																																																				<a href="https://GitHub.Com/CodeEditorLand/LandTypeScriptNext" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																					<b>
-																																																																																																																																																																																																																																																																																																																																																																						Enables typescript@next as VS Code
-					s built-in TypeScript version
+																																																																																																																																																																																																																																																																																																																																																																						Enables&#x2001;typescript@next&#x2001;as&#x2001;VS&#x2001;Code
+					s&#x2001;built-in&#x2001;TypeScript&#x2001;version
 																																																																																																																																																																																																																																																																																																																																																																					</b>
 																																																																																																																																																																																																																																																																																																																																																																				</a>
 																																																																																																																																																																																																																																																																																																																																																																			</td>
@@ -11262,7 +11262,7 @@
 																																																																																																																																																																																																																																																																																																																																																																				<br />
 																																																																																																																																																																																																																																																																																																																																																																				<a href="https://GitHub.Com/CodeEditorLand/LandTypeScriptTSLintPlugin" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																					<b>
-																																																																																																																																																																																																																																																																																																																																																																						VS Code extension that provides TSLint support using the typescript-tslint-plugin
+																																																																																																																																																																																																																																																																																																																																																																						VS&#x2001;Code&#x2001;extension&#x2001;that&#x2001;provides&#x2001;TSLint&#x2001;support&#x2001;using&#x2001;the&#x2001;typescript-tslint-plugin
 																																																																																																																																																																																																																																																																																																																																																																					</b>
 																																																																																																																																																																																																																																																																																																																																																																				</a>
 																																																																																																																																																																																																																																																																																																																																																																			</td>
@@ -11305,7 +11305,7 @@
 																																																																																																																																																																																																																																																																																																																																																																				<br />
 																																																																																																																																																																																																																																																																																																																																																																				<a href="https://GitHub.Com/CodeEditorLand/LandURI" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																					<b>
-																																																																																																																																																																																																																																																																																																																																																																						The URI implementation that is used in VS Code and its extensions
+																																																																																																																																																																																																																																																																																																																																																																						The&#x2001;URI&#x2001;implementation&#x2001;that&#x2001;is&#x2001;used&#x2001;in&#x2001;VS&#x2001;Code&#x2001;and&#x2001;its&#x2001;extensions
 																																																																																																																																																																																																																																																																																																																																																																					</b>
 																																																																																																																																																																																																																																																																																																																																																																				</a>
 																																																																																																																																																																																																																																																																																																																																																																			</td>
@@ -11421,7 +11421,7 @@
 																																																																																																																																																																																																																																																																																																																																																																											<br />
 																																																																																																																																																																																																																																																																																																																																																																											<a href="https://GitHub.Com/CodeEditorLand/LandVSKeybindings" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																												<b>
-																																																																																																																																																																																																																																																																																																																																																																													Visual Studio Keymap for Visual Studio Code
+																																																																																																																																																																																																																																																																																																																																																																													Visual&#x2001;Studio&#x2001;Keymap&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																																																																																																																																																																																																																																																																																																																												</b>
 																																																																																																																																																																																																																																																																																																																																																																											</a>
 																																																																																																																																																																																																																																																																																																																																																																										</td>
@@ -11463,8 +11463,8 @@
 																																																																																																																																																																																																																																																																																																																																																																												<br />
 																																																																																																																																																																																																																																																																																																																																																																												<a href="https://GitHub.Com/CodeEditorLand/LandWASM" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																													<b>
-																																																																																																																																																																																																																																																																																																																																																																														A WASI implementation that uses VS Code
-					s extension host as the implementing API
+																																																																																																																																																																																																																																																																																																																																																																														A&#x2001;WASI&#x2001;implementation&#x2001;that&#x2001;uses&#x2001;VS&#x2001;Code
+					s&#x2001;extension&#x2001;host&#x2001;as&#x2001;the&#x2001;implementing&#x2001;API
 																																																																																																																																																																																																																																																																																																																																																																													</b>
 																																																																																																																																																																																																																																																																																																																																																																												</a>
 																																																																																																																																																																																																																																																																																																																																																																											</td>
@@ -11543,7 +11543,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandWebViewUIToolkit" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		A component library for building webview-based extensions in Visual Studio Code
+																																																																																																																																																																																																																																																																																																																																																																																		A&#x2001;component&#x2001;library&#x2001;for&#x2001;building&#x2001;webview-based&#x2001;extensions&#x2001;in&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -11584,7 +11584,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandWebViewUIToolkitSamples" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		A collection of sample extensions built with the Webview UI Toolkit for Visual Studio Code
+																																																																																																																																																																																																																																																																																																																																																																																		A&#x2001;collection&#x2001;of&#x2001;sample&#x2001;extensions&#x2001;built&#x2001;with&#x2001;the&#x2001;Webview&#x2001;UI&#x2001;Toolkit&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -11627,7 +11627,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandWiki" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		A repository to make changes to the vscode Wiki on GitHub
+																																																																																																																																																																																																																																																																																																																																																																																		A&#x2001;repository&#x2001;to&#x2001;make&#x2001;changes&#x2001;to&#x2001;the&#x2001;vscode&#x2001;Wiki&#x2001;on&#x2001;GitHub
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -11668,7 +11668,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandWin32AppContainerTokens" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		Native win32 Nodejs addon to retrieve named pipes from app contains
+																																																																																																																																																																																																																																																																																																																																																																																		Native&#x2001;win32&#x2001;Nodejs&#x2001;addon&#x2001;to&#x2001;retrieve&#x2001;named&#x2001;pipes&#x2001;from&#x2001;app&#x2001;contains
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -11711,7 +11711,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandWindowsCaCerts" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		Get Windows System Root certificates
+																																																																																																																																																																																																																																																																																																																																																																																		Get&#x2001;Windows&#x2001;System&#x2001;Root&#x2001;certificates
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -11752,7 +11752,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandWindowsProcessTree" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		Fetch a Windows process tree fast in Nodejs
+																																																																																																																																																																																																																																																																																																																																																																																		Fetch&#x2001;a&#x2001;Windows&#x2001;process&#x2001;tree&#x2001;fast&#x2001;in&#x2001;Nodejs
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -11795,7 +11795,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandWindowsRegistry" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		Native node module to access the Windows Registry
+																																																																																																																																																																																																																																																																																																																																																																																		Native&#x2001;node&#x2001;module&#x2001;to&#x2001;access&#x2001;the&#x2001;Windows&#x2001;Registry
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -11836,7 +11836,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandWinsta11er" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		Windows Store Installer for VS Code
+																																																																																																																																																																																																																																																																																																																																																																																		Windows&#x2001;Store&#x2001;Installer&#x2001;for&#x2001;VS&#x2001;Code
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -11879,7 +11879,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandWordCount" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		Sample Word Count extension for VS Code
+																																																																																																																																																																																																																																																																																																																																																																																		Sample&#x2001;Word&#x2001;Count&#x2001;extension&#x2001;for&#x2001;VS&#x2001;Code
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -11920,7 +11920,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LandZeroMQ" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		For consuming the zeromq binary from microsoft⁄zeromq-prebuilt in a Node project
+																																																																																																																																																																																																																																																																																																																																																																																		For&#x2001;consuming&#x2001;the&#x2001;zeromq&#x2001;binary&#x2001;from&#x2001;microsoft⁄zeromq-prebuilt&#x2001;in&#x2001;a&#x2001;Node&#x2001;project
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -11963,7 +11963,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/LinkCheckerMD" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		A VSCode extension that check links in Markdown to ensure they are valid
+																																																																																																																																																																																																																																																																																																																																																																																		A&#x2001;VSCode&#x2001;extension&#x2001;that&#x2001;check&#x2001;links&#x2001;in&#x2001;Markdown&#x2001;to&#x2001;ensure&#x2001;they&#x2001;are&#x2001;valid
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12004,7 +12004,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/MonacoEditor" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		A browser based code editor
+																																																																																																																																																																																																																																																																																																																																																																																		A&#x2001;browser&#x2001;based&#x2001;code&#x2001;editor
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12047,7 +12047,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/NodeRequestLight" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		A light weight nodejs request library with proxy support Intended to be used by VSCode extensions
+																																																																																																																																																																																																																																																																																																																																																																																		A&#x2001;light&#x2001;weight&#x2001;nodejs&#x2001;request&#x2001;library&#x2001;with&#x2001;proxy&#x2001;support&#x2001;Intended&#x2001;to&#x2001;be&#x2001;used&#x2001;by&#x2001;VSCode&#x2001;extensions
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12088,7 +12088,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/PlaywrightLand" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		Playwright Test Visual Studio Code integration
+																																																																																																																																																																																																																																																																																																																																																																																		Playwright&#x2001;Test&#x2001;Visual&#x2001;Studio&#x2001;Code&#x2001;integration
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12131,7 +12131,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/PowerPlatformLand" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		The Power Platform VSCode extension makes it easy to manage Power Platform environments and allows the developer to create, build and deploy Power Platform solutions, packages and portals
+																																																																																																																																																																																																																																																																																																																																																																																		The&#x2001;Power&#x2001;Platform&#x2001;VSCode&#x2001;extension&#x2001;makes&#x2001;it&#x2001;easy&#x2001;to&#x2001;manage&#x2001;Power&#x2001;Platform&#x2001;environments&#x2001;and&#x2001;allows&#x2001;the&#x2001;developer&#x2001;to&#x2001;create,&#x2001;build&#x2001;and&#x2001;deploy&#x2001;Power&#x2001;Platform&#x2001;solutions,&#x2001;packages&#x2001;and&#x2001;portals
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12172,7 +12172,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/PowerPlatformLandLab" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		Hands-on lab for Power Platform Tools for Visual Studio Code
+																																																																																																																																																																																																																																																																																																																																																																																		Hands-on&#x2001;lab&#x2001;for&#x2001;Power&#x2001;Platform&#x2001;Tools&#x2001;for&#x2001;Visual&#x2001;Studio&#x2001;Code
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12215,7 +12215,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/PSDocsLand" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		A Visual Studio Code extension for PSDocsAzure
+																																																																																																																																																																																																																																																																																																																																																																																		A&#x2001;Visual&#x2001;Studio&#x2001;Code&#x2001;extension&#x2001;for&#x2001;PSDocsAzure
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12256,7 +12256,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/PSRuleLand" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		A Visual Studio Code extension for PSRule
+																																																																																																																																																																																																																																																																																																																																																																																		A&#x2001;Visual&#x2001;Studio&#x2001;Code&#x2001;extension&#x2001;for&#x2001;PSRule
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12299,7 +12299,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/PVSCBot" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		GitHub bot for Microsoft⁄vscode-python
+																																																																																																																																																																																																																																																																																																																																																																																		GitHub&#x2001;bot&#x2001;for&#x2001;Microsoft⁄vscode-python
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12340,7 +12340,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/PythonSampleLandDjangoTutorial" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		Sample code for the Django tutorial in the VS Code documentation
+																																																																																																																																																																																																																																																																																																																																																																																		Sample&#x2001;code&#x2001;for&#x2001;the&#x2001;Django&#x2001;tutorial&#x2001;in&#x2001;the&#x2001;VS&#x2001;Code&#x2001;documentation
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12383,7 +12383,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/PythonSampleLandFastapiTutorial" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		Sample code for the FastAPI tutorial in the VS Code documentation
+																																																																																																																																																																																																																																																																																																																																																																																		Sample&#x2001;code&#x2001;for&#x2001;the&#x2001;FastAPI&#x2001;tutorial&#x2001;in&#x2001;the&#x2001;VS&#x2001;Code&#x2001;documentation
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12424,7 +12424,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/PythonSampleLandFlaskTutorial" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		Sample code for the Flask tutorial in the VS Code documentation
+																																																																																																																																																																																																																																																																																																																																																																																		Sample&#x2001;code&#x2001;for&#x2001;the&#x2001;Flask&#x2001;tutorial&#x2001;in&#x2001;the&#x2001;VS&#x2001;Code&#x2001;documentation
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12467,7 +12467,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/Quantum" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		Tauri + Solid add support for Android and iOS on top of desktop builds (linux, mac, windows)
+																																																																																																																																																																																																																																																																																																																																																																																		Tauri&#x2001;+&#x2001;Solid&#x2001;add&#x2001;support&#x2001;for&#x2001;Android&#x2001;and&#x2001;iOS&#x2001;on&#x2001;top&#x2001;of&#x2001;desktop&#x2001;builds&#x2001;(linux,&#x2001;mac,&#x2001;windows)
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12508,7 +12508,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/SarifLandExtension" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		SARIF Microsoft Visual Studio Code extension
+																																																																																																																																																																																																																																																																																																																																																																																		SARIF&#x2001;Microsoft&#x2001;Visual&#x2001;Studio&#x2001;Code&#x2001;extension
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12551,7 +12551,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/ScopeStudioLand" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		this is the git hub repo for SCOPE Studio vscode
+																																																																																																																																																																																																																																																																																																																																																																																		this&#x2001;is&#x2001;the&#x2001;git&#x2001;hub&#x2001;repo&#x2001;for&#x2001;SCOPE&#x2001;Studio&#x2001;vscode
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12592,7 +12592,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/SynapseLand" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		this is the repo of the Synapse VS Code extension for Microsoft Fabric
+																																																																																																																																																																																																																																																																																																																																																																																		this&#x2001;is&#x2001;the&#x2001;repo&#x2001;of&#x2001;the&#x2001;Synapse&#x2001;VS&#x2001;Code&#x2001;extension&#x2001;for&#x2001;Microsoft&#x2001;Fabric
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12635,7 +12635,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/ThemeConverterForVS" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme
+																																																																																																																																																																																																																																																																																																																																																																																		CLI&#x2001;tool&#x2001;that&#x2001;allows&#x2001;you&#x2001;to&#x2001;convert&#x2001;your&#x2001;VS&#x2001;Code&#x2001;color&#x2001;theme&#x2001;to&#x2001;a&#x2001;VS&#x2001;2022&#x2001;color&#x2001;theme
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -12676,7 +12676,7 @@
 																																																																																																																																																																																																																																																																																																																																																																																<br />
 																																																																																																																																																																																																																																																																																																																																																																																<a href="https://GitHub.Com/CodeEditorLand/TypeScriptLandExtensions" target="_blank">
 																																																																																																																																																																																																																																																																																																																																																																																	<b>
-																																																																																																																																																																																																																																																																																																																																																																																		A monorepo of VS Code extensions from the TypeScript Team
+																																																																																																																																																																																																																																																																																																																																																																																		A&#x2001;monorepo&#x2001;of&#x2001;VS&#x2001;Code&#x2001;extensions&#x2001;from&#x2001;the&#x2001;TypeScript&#x2001;Team
 																																																																																																																																																																																																																																																																																																																																																																																	</b>
 																																																																																																																																																																																																																																																																																																																																																																																</a>
 																																																																																																																																																																																																																																																																																																																																																																															</td>
@@ -13101,7 +13101,7 @@
 			<br />
 			<a href="https://GitHub.Com/CodeEditorLand/Common" target="_blank">
 				<b>
-					Common 🧑🏻‍🏭 Land 🏞️
+					Common&#x2001;🧑🏻‍🏭&#x2001;Land&#x2001;🏞️
 				</b>
 			</a>
 		</td>
@@ -13142,7 +13142,7 @@
 			<br />
 			<a href="https://GitHub.Com/CodeEditorLand/Ingress" target="_blank">
 				<b>
-					Ingress ➡️ Land 🏞️
+					Ingress&#x2001;➡️&#x2001;Land&#x2001;🏞️
 				</b>
 			</a>
 		</td>
