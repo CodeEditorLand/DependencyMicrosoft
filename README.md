@@ -3,9 +3,9 @@
 		<td colspan="1">
 			<h3 align="center">
 				<picture>
-					<source media="(prefers-color-scheme: dark)" srcset="https://PlayForm.Cloud/Image/GitHub/Cargo.png" />
-					<source media="(prefers-color-scheme: light)" srcset="https://PlayForm.Cloud/Image/GitHub/Cargo.png" />
-					<img width="28" alt="" src="https://PlayForm.Cloud/Image/GitHub/Cargo.png" />
+					<source media="(prefers-color-scheme: dark)" srcset="https://editor.land/Image/GitHub/Cargo.png" />
+					<source media="(prefers-color-scheme: light)" srcset="https://editor.land/Image/GitHub/Cargo.png" />
+					<img width="28" alt="" src="https://editor.land/Image/GitHub/Cargo.png" />
 				</picture>
 			</h3>
 		</td>
@@ -13051,9 +13051,9 @@
 		<td colspan="1">
 			<h3 align="center">
 				<picture>
-					<source media="(prefers-color-scheme: dark)" srcset="https://PlayForm.Cloud/Image/GitHub/NPM.svg" />
-					<source media="(prefers-color-scheme: light)" srcset="https://PlayForm.Cloud/Image/GitHub/NPM.svg" />
-					<img width="28" alt="" src="https://PlayForm.Cloud/Image/GitHub/NPM.svg" />
+					<source media="(prefers-color-scheme: dark)" srcset="https://editor.land/Image/GitHub/NPM.svg" />
+					<source media="(prefers-color-scheme: light)" srcset="https://editor.land/Image/GitHub/NPM.svg" />
+					<img width="28" alt="" src="https://editor.land/Image/GitHub/NPM.svg" />
 				</picture>
 			</h3>
 		</td>
@@ -13159,4 +13159,4 @@ This project is funded through
 
 | Land                                                                                                                                                  | PlayForm                                                                                                                                                   | NLnet                                                                                        | NGI0 Commons Fund                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-|| [<img src="https://raw.githubusercontent.com/CodeEditorLand/Asset/refs/heads/Current/Logo/Land.svg" height="80px" alt="Land" />](https://land.playform.cloud) | [<img src="https://raw.githubusercontent.com/PlayForm/Asset/refs/heads/Current/Logo/PlayForm.svg" height="80px" alt="PlayForm" />](https://PlayForm.Cloud) | [<img width="240px" src="https://NLnet.NL/logo/banner.svg" alt="NLnet" />](https://NLnet.NL) | [<img width="240px" src="https://NLnet.NL/image/logos/NGI0CommonsFund_tag_black_mono.svg" alt="NGI0 Commons Fund" />](https://NLnet.NL/commonsfund) |
+|| [<img src="https://raw.githubusercontent.com/CodeEditorLand/Asset/refs/heads/Current/Logo/Land.svg" height="80px" alt="Land" />](https://editor.land) | [<img src="https://raw.githubusercontent.com/PlayForm/Asset/refs/heads/Current/Logo/PlayForm.svg" height="80px" alt="PlayForm" />](https://editor.land) | [<img width="240px" src="https://NLnet.NL/logo/banner.svg" alt="NLnet" />](https://NLnet.NL) | [<img width="240px" src="https://NLnet.NL/image/logos/NGI0CommonsFund_tag_black_mono.svg" alt="NGI0 Commons Fund" />](https://NLnet.NL/commonsfund) |
