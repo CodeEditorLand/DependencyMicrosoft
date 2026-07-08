@@ -9,11 +9,7 @@
 				</picture>
 			</h3>
 		</td>
-		<td colspan="3" valign="top">
-			<h3 align="center">
-				Microsoft
-			</h3>
-		</td>
+		<td colspan="3" valign="top"><h3 align="center">Microsoft&#x2001;📦</h3></td>
 	</tr>
 </table>
 <table>
@@ -27,11 +23,7 @@
 				</picture>
 			</h3>
 		</td>
-		<td colspan="3" valign="top">
-			<h3 align="center">
-				Dependency
-			</h3>
-		</td>
+		<td colspan="3" valign="top"><h3 align="center">Dependency&#x2001;📦</h3></td>
 	</tr>
 	<tr>
 		<td valign="top" colspan="1">
@@ -69,11 +61,7 @@
 				</picture>
 			</a>
 			<br />
-			<a href="https://GitHub.Com/CodeEditorLand/DependencyMicrosoftCargo" target="_blank">
-				<b>
-					Cargo&#x2001;+&#x2001;Microsoft&#x2001;📦
-				</b>
-			</a>
+			<a href="https://GitHub.Com/CodeEditorLand/DependencyMicrosoftCargo" target="_blank"><b>Cargo + Microsoft&#x2001;📦</b></a>
 		</td>
 		<td valign="top" colspan="1">
 			<a href="https://GitHub.Com/CodeEditorLand/DependencyMicrosoftNPM" target="_blank">
@@ -110,11 +98,7 @@
 				</picture>
 			</a>
 			<br />
-			<a href="https://GitHub.Com/CodeEditorLand/DependencyMicrosoftNPM" target="_blank">
-				<b>
-					NPM&#x2001;+&#x2001;Microsoft&#x2001;📦
-				</b>
-			</a>
+			<a href="https://GitHub.Com/CodeEditorLand/DependencyMicrosoftNPM" target="_blank"><b>NPM + Microsoft&#x2001;📦</b></a>
 		</td>
 	</tr>
 </table>
